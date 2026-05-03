@@ -1,0 +1,487 @@
+{
+  "topbar": {
+    "promo": "Oferta especial · Amostra grátis no primeiro pedido · Certificado BV / SGS · Envio para mais de 80 países"
+  },
+  "nav": {
+    "newArrivals": "Novidades",
+    "earrings": "Brincos",
+    "stud": "Brincos de Pressão",
+    "drop": "Brincos Pendentes",
+    "hoop": "Argolas",
+    "necklace": "Colares",
+    "brooch": "Broches",
+    "set": "Conjuntos",
+    "ring": "Anéis",
+    "bracelet": "Pulseiras",
+    "comingSoon": "Em Breve",
+    "brass": "Latão Dourado",
+    "copper": "Cobre",
+    "silver": "Prata 925",
+    "customOem": "OEM Personalizado",
+    "collections": "Coleções",
+    "about": "Sobre Nós",
+    "contact": "Contato",
+    "search": "Buscar",
+    "account": "Conta",
+    "stores": "Lojas",
+    "wishlist": "Favoritos",
+    "inquiry": "Cotação"
+  },
+  "common": {
+    "language": "Idioma",
+    "currency": "Moeda",
+    "moq": "Pedido Mínimo",
+    "moqShort": "MOQ",
+    "pcs": "pçs",
+    "pairs": "pares",
+    "addToInquiry": "Adicionar à Cotação",
+    "viewAll": "Ver Tudo",
+    "exploreMore": "Saiba Mais",
+    "back": "Voltar",
+    "submit": "Enviar",
+    "sending": "Enviando…",
+    "remove": "Remover",
+    "clearAll": "Limpar Tudo",
+    "filters": "Filtros",
+    "browseCatalogue": "Ver Catálogo",
+    "loading": "Carregando…",
+    "submitted": "Enviado",
+    "thankYou": "Obrigado",
+    "noteOptional": "Nota (opcional)",
+    "neverShare": "Nunca compartilharemos suas informações com terceiros.",
+    "replies24h": "Resposta em 24 horas"
+  },
+  "tags": {
+    "bestseller": "Mais Vendido",
+    "newArrival": "Novidade",
+    "oem": "OEM/ODM"
+  },
+  "material": {
+    "925-silver": "Prata 925",
+    "brass-gold": "Latão · Dourado",
+    "brass-silver": "Latão · Prateado",
+    "copper": "Cobre",
+    "alloy": "Liga",
+    "titanium-gold": "Aço Titânio · Dourado",
+    "stainless": "Aço Inoxidável",
+    "mixed": "Misto"
+  },
+  "decoration": {
+    "pearl": "Pérola",
+    "cz": "Zircônia / CZ",
+    "shell": "Madrepérola",
+    "enamel": "Esmalte",
+    "opal": "Olho de Gato / Opala",
+    "crystal": "Cristal",
+    "resin": "Resina",
+    "rose-gold-plate": "Toque Ouro Rosa"
+  },
+  "category": {
+    "stud": "Brincos de Pressão",
+    "drop": "Brincos Pendentes",
+    "hoop": "Argolas",
+    "necklace": "Colares",
+    "brooch": "Broches",
+    "set": "Conjuntos",
+    "ring": "Anéis",
+    "bracelet": "Pulseiras",
+    "earring": "Brincos",
+    "pendant": "Pingentes"
+  },
+  "trustBar": {
+    "dailyOutput": "Produção Diária",
+    "dailyOutputSub": "1.500 dúzias / dia",
+    "certified": "Qualidade Certificada",
+    "certifiedSub": "SGS · NGTC · REACH · ISO9001",
+    "lowMoq": "MOQ desde 120 pares",
+    "lowMoqSub": "240 pçs por modelo",
+    "brandOem": "OEM de Marca",
+    "brandOemSub": "Miniso · Disney · Sanfu",
+    "globalExport": "Exportação Global",
+    "globalExportSub": "EUA · UK · IT · FR · OM · IN · JP"
+  },
+  "hero": {
+    "stat": {
+      "since": "Desde",
+      "sinceVal": "2008",
+      "styles": "Modelos",
+      "stylesVal": "20K+",
+      "countries": "Países",
+      "countriesVal": "7+",
+      "minOrder": "MOQ",
+      "minOrderVal": "120 pares"
+    }
+  },
+  "home": {
+    "collections": {
+      "eyebrow": "COLEÇÕES EM DESTAQUE",
+      "title": "Coleções em Destaque",
+      "more": "Todas as Coleções"
+    },
+    "bestsellers": {
+      "eyebrow": "MAIS VENDIDOS",
+      "title": "Mais Vendidos do Mês",
+      "more": "Ver Todos os Mais Vendidos"
+    },
+    "newArrivals": {
+      "eyebrow": "NOVIDADES",
+      "title": "Recém-Chegados",
+      "more": "Ver Todas as Novidades"
+    },
+    "cta": {
+      "eyebrow": "INICIAR PEDIDO",
+      "title": "Inicie Seu Pedido por Atacado",
+      "body": "Solicite um kit de amostras grátis, baixe nosso catálogo mais recente ou fale diretamente com nossa equipe de exportação. Resposta em 24 horas.",
+      "sample": "Solicitar Amostra Grátis",
+      "catalogue": "Baixar Catálogo"
+    }
+  },
+  "product": {
+    "moqLine": "MOQ {pairs} pares · {material}",
+    "specs": {
+      "sku": "SKU",
+      "category": "Categoria",
+      "material": "Material",
+      "plating": "Banho",
+      "style": "Estilo",
+      "dimensions": "Dimensões",
+      "weight": "Peso",
+      "leadTime": "Prazo de Entrega",
+      "stock": "Estoque",
+      "moq": "MOQ",
+      "pack": "Embalagem",
+      "leadTimeDays": "{min}–{max} dias úteis",
+      "stockReady": "Em estoque · 现货",
+      "stockMto": "Sob encomenda · 定制",
+      "moqValue": "{pairs} pares ({pcs} pçs) · por modelo",
+      "packValue": "{pack} pçs / embalagem interna"
+    },
+    "panel": {
+      "orderQty": "Quantidade do Pedido",
+      "qtyHint": "= {pairs} pares · passos de {step} pçs",
+      "oemPrompt": "Quero discutir personalização OEM",
+      "oemSub": "Logo / embalagem / design exclusivo",
+      "noteHint": "Cor preferida, embalagem, preço-alvo…",
+      "addBtn": "+ Adicionar à Cotação",
+      "customBtn": "Personalizar Este Design",
+      "tip": "💡 Adicione vários SKUs à sua cotação e envie um único pedido de orçamento. Resposta em 24 horas."
+    },
+    "tabs": {
+      "overview": "Visão Geral",
+      "specs": "Especificações",
+      "packing": "Embalagem e Envio",
+      "innerPack": "Embalagem interna",
+      "carton": "Caixa",
+      "leadTime": "Prazo",
+      "shipping": "Envio",
+      "customPack": "Embalagem personalizada",
+      "innerPackVal": "{pack} pçs / saco",
+      "cartonVal": "Caixa padrão de exportação, qtd. conforme cliente",
+      "leadTimeVal": "{min}–{max} dias úteis após confirmação",
+      "shippingVal": "DHL · FedEx · UPS · LCL marítimo · ou seu agente",
+      "customPackVal": "Disponível — ver página OEM"
+    },
+    "related": {
+      "eyebrow": "Você também pode gostar",
+      "title": "Modelos Relacionados",
+      "viewAll": "Ver tudo"
+    }
+  },
+  "filter": {
+    "category": "Categoria",
+    "categoryEn": "Category",
+    "material": "Material",
+    "materialEn": "Material",
+    "plating": "Banho",
+    "platingEn": "Plating",
+    "style": "Estilo",
+    "styleEn": "Style",
+    "collection": "Coleção",
+    "collectionEn": "Collection"
+  },
+  "sort": {
+    "label": "Ordenar por",
+    "best": "Mais Relevantes",
+    "newest": "Mais Recentes",
+    "moqAsc": "MOQ: Menor → Maior",
+    "stylesFound": "modelos"
+  },
+  "pagination": {
+    "prev": "← Anterior",
+    "next": "Próximo →"
+  },
+  "listing": {
+    "breadcrumb": {
+      "home": "Início",
+      "catalogue": "Catálogo"
+    },
+    "header": {
+      "all": "Catálogo Atacado",
+      "allSub": "Todas as categorias",
+      "category": "{label}",
+      "material": "Joias em {label}",
+      "collection": "{label}",
+      "plating": "{label}",
+      "style": "Estilo {label}",
+      "search": "Buscar: «{q}»"
+    },
+    "noResults": "Nenhum produto encontrado",
+    "noResultsSub": "Nenhum produto corresponde aos filtros.",
+    "clearFilters": "Limpar filtros"
+  },
+  "inquiryDrawer": {
+    "title": "Lista de Cotação",
+    "items": "{n} {n, plural, one {item} other {itens}}",
+    "empty": "Sua lista de cotação está vazia",
+    "emptySub": "Explore o catálogo e adicione itens.",
+    "submit": "Enviar Cotação",
+    "footnote": "Resposta com orçamento em 24 horas."
+  },
+  "inquiryPage": {
+    "eyebrow": "Lista de Cotação",
+    "title": "Revisar e enviar",
+    "items": "{n} {n, plural, one {item pronto} other {itens prontos}} para orçamento",
+    "itemsSection": "Itens",
+    "totalLine": "Total: {pcs} pçs em {skus} SKUs",
+    "qty": "Qtd:",
+    "needOem": "Preciso de personalização OEM",
+    "noteHint": "Nota (cor, embalagem, preço-alvo…)",
+    "form": {
+      "title": "Seus Dados",
+      "name": "Nome *",
+      "company": "Empresa",
+      "email": "Email *",
+      "phone": "Telefone / WhatsApp",
+      "country": "País / Mercado *",
+      "countryHint": "Escolher…",
+      "additionalNotes": "Notas Adicionais",
+      "additionalHint": "Preço-alvo, prazo, requisitos específicos…",
+      "submit": "Enviar Cotação"
+    },
+    "thank": {
+      "eyebrow": "Enviado",
+      "title": "Obrigado.",
+      "subtitle": "Cotação recebida.",
+      "body": "Nossa equipe de exportação revisará sua solicitação e responderá com preços, MOQ e prazos em 24 horas.",
+      "continueBtn": "Continuar Explorando",
+      "homeBtn": "Voltar ao Início"
+    },
+    "empty": {
+      "eyebrow": "Lista de Cotação",
+      "title": "Sua lista está vazia",
+      "subtitle": "Lista de cotação vazia",
+      "body": "Explore o catálogo e adicione os itens que deseja cotar — você pode pedir orçamento para quantos SKUs quiser em uma única cotação.",
+      "browse": "Ver Catálogo",
+      "oem": "OEM Personalizado"
+    },
+    "errors": {
+      "submitFailed": "Algo deu errado. Envie um email para sales@zhuoheng.com"
+    }
+  },
+  "oemPage": {
+    "hero": {
+      "eyebrow": "Fabricação OEM / ODM Personalizada",
+      "titleA": "Fabricamos joias",
+      "titleB": "do seu jeito.",
+      "titleC": "",
+      "body": "Marca consolidada, lojista iniciante ou vendedor Amazon / Shopify — fabricamos joias exclusivas em latão e cobre com seu design, seu logo e sua embalagem.",
+      "startBtn": "Iniciar Projeto",
+      "talkBtn": "Falar com um Especialista"
+    },
+    "process": {
+      "eyebrow": "Processo",
+      "title": "Do esboço ao envio em 20 dias.",
+      "body": "Veja como transformamos sua ideia em milhares de peças prontas para seus clientes."
+    },
+    "cases": {
+      "eyebrow": "O Que Personalizamos",
+      "title": "Três níveis de personalização.",
+      "body": "Desde gravação de logo até designs totalmente exclusivos — escolha o nível certo para seu projeto."
+    },
+    "form": {
+      "eyebrow": "Enviar Briefing",
+      "title": "Conte-nos sobre seu projeto.",
+      "body": "Quanto mais detalhes nos der, mais precisa será nossa cotação. Resposta em 24 horas.",
+      "ndaNote": "✓ NDA disponível mediante solicitação\n✓ Aceitamos designs existentes\n✓ Imagens de referência / esboços são úteis\n✓ Todas as consultas são confidenciais",
+      "name": "Nome *",
+      "company": "Empresa",
+      "email": "Email *",
+      "phone": "Telefone / WhatsApp",
+      "country": "País / Mercado *",
+      "productTypes": "Tipos de Produto * (selecione todos que se aplicam)",
+      "estimatedQty": "Quantidade Estimada *",
+      "needs": "Necessidades de Personalização",
+      "needsLogo": "Logo / Carimbo",
+      "needsPack": "Embalagem Personalizada",
+      "needsDesign": "Design Exclusivo",
+      "budget": "Orçamento por Peça (opcional)",
+      "budgetHint": "ex. USD 1,50 – 3,00",
+      "message": "Descrição do Projeto *",
+      "messageHint": "Descreva sua ideia, clientes-alvo, referências de design ou restrições…",
+      "submit": "Enviar Briefing",
+      "thankEyebrow": "Recebido",
+      "thankTitle": "Obrigado.",
+      "thankBody": "Nossa equipe OEM entrará em contato em 24 horas com próximos passos e preço inicial.",
+      "errorMsg": "Algo deu errado. Tente novamente ou envie email para sales@zhuoheng.com"
+    },
+    "process_steps": {
+      "step1Title": "Briefing Inicial",
+      "step1Body": "Conte-nos sua ideia, mercado-alvo, MOQ e orçamento. NDA disponível.",
+      "step2Title": "Design e Cotação",
+      "step2Body": "Nossa equipe cria renders 2D / 3D. Cotamos com base nos materiais.",
+      "step3Title": "Produção de Amostra",
+      "step3Body": "Produzimos uma amostra física para sua aprovação. Envio expresso ao seu escritório.",
+      "step4Title": "Aprovação da Amostra",
+      "step4Body": "Você inspeciona, pede mudanças e aprova. Refinamos até estar perfeito.",
+      "step5Title": "Produção em Larga Escala",
+      "step5Body": "Produção completa. Controle de qualidade em três etapas: fundição, banho, acabamento.",
+      "step6Title": "Envio",
+      "step6Body": "Embalagem com sua marca, seu agente ou nosso parceiro: DHL / FedEx / marítimo."
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "Fundada em 2008 · 17 Anos de Ofício",
+      "titleA": "Fábrica de Joias em Yiwu",
+      "titleB": "Uma fábrica de joias de Yiwu para o mundo.",
+      "body": "ZHUOHENG foi fundada em 2008 com 17 anos de experiência na fabricação de joias em latão e cobre. De nossa instalação moderna de 3.000 m² fornecemos para Miniso, Disney, Sanfu, Ling-Li, COBEN e outras marcas; produtos enviados para EUA, UK, Itália, França, Oriente Médio, Índia e Japão, com relação estável de 18 anos com compradores italianos.",
+      "oemBtn": "OEM Personalizado",
+      "visitBtn": "Visite Nossa Fábrica"
+    },
+    "stats": {
+      "since": "Fundada",
+      "facility": "Instalação",
+      "artisans": "Artesãos",
+      "skus": "SKUs Próprios"
+    },
+    "capacity": {
+      "title": "Capacidade Produtiva",
+      "titleEn": "Production Capacity"
+    },
+    "quality": {
+      "eyebrow": "Qualidade e Ofício",
+      "title": "Latão ecológico · Banho de ouro real · 12 meses sem oxidação",
+      "body": "Latão e cobre certificados sem chumbo. Eletrobanho com ouro real, espessura de 0,03 μm — garantia de não desbotar por 12 meses com uso normal. Cada peça passa por 7 etapas de produção e 3 controles de qualidade independentes."
+    },
+    "clients": {
+      "title": "Clientes de Marca",
+      "subtitle": "Já fabricamos para essas marcas. Seus padrões de qualidade estão integrados em cada linha que sai da nossa fábrica.",
+      "italyYears": "Relacionamento com cliente italiano",
+      "exports": "Mercados de exportação",
+      "counters": "Pontos próprios",
+      "marketsLine": "Mercados: EUA · UK · Itália · França · Oriente Médio · Índia · Japão"
+    },
+    "visit": {
+      "eyebrow": "Visita",
+      "title": "Bem-vindo a percorrer nossa fábrica.",
+      "body": "Recebemos compradores e equipes de marcas para visitas presenciais. Veja nossos equipamentos, conheça a equipe de QC e inspecione amostras no local.",
+      "bookBtn": "Agendar Visita",
+      "customBtn": "Iniciar Projeto Personalizado"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Contato",
+    "title": "Obtenha uma cotação atacadista.",
+    "subtitle": "Resposta em 24 horas",
+    "form": {
+      "eyebrow": "Enviar Cotação",
+      "title": "Diga-nos o que você está procurando.",
+      "body": "Preencha o formulário e nossa equipe de exportação responderá em 24 horas com preços, MOQ, prazo e plano de amostras se necessário.",
+      "office": "Escritório",
+      "officeLines": "Yiwu Zhuoheng Jewellery Co., Ltd.|Yiwu, China|(substituir pelo endereço real)",
+      "hours": "Horário",
+      "hoursLines": "Segunda – Sábado · 9:00 – 18:00 (UTC+8)|Fechado em feriados chineses",
+      "languages": "Idiomas",
+      "languagesLines": "English · Português · 中文",
+      "name": "Nome *",
+      "company": "Empresa",
+      "email": "Email *",
+      "phone": "Telefone / WhatsApp",
+      "country": "País / Mercado *",
+      "message": "Mensagem *",
+      "messageHint": "Descreva os produtos que está procurando, quantidade-alvo, mercado e prazos.",
+      "submit": "Enviar Cotação",
+      "thankEyebrow": "Recebido",
+      "thankTitle": "Obrigado por entrar em contato.",
+      "thankBody": "Nossa equipe de exportação responderá em 24 horas.",
+      "errorMsg": "Algo deu errado. Envie email diretamente para sales@zhuoheng.com"
+    },
+    "channels": {
+      "email": "Email",
+      "emailSub": "Resposta em 24 horas",
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "Seg–Sáb · 9:00 – 18:00 (UTC+8)",
+      "wechat": "WeChat",
+      "wechatSub": "ID: zhuoheng_sales · Chat instantâneo"
+    },
+    "map": {
+      "title": "Localização da Fábrica",
+      "company": "Fábrica ZHUOHENG",
+      "city": "Yiwu, China",
+      "note": "Integração de mapa em breve — por enquanto agende por email ou WhatsApp."
+    }
+  },
+  "comingSoon": {
+    "eyebrow": "Em Breve",
+    "body": "Esta página está sendo preparada. Enquanto isso, entre em contato diretamente.",
+    "homeBtn": "Voltar ao Início",
+    "oemBtn": "OEM Personalizado"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Página Não Encontrada",
+    "subtitle": "Page Not Found",
+    "body": "A página que você procura não existe ou foi movida.",
+    "homeBtn": "Voltar ao Início",
+    "oemBtn": "OEM Personalizado"
+  },
+  "legal": {
+    "lastUpdated": "Última atualização: {date}",
+    "contactNote": "Dúvidas? Email para sales@zhuoheng.com",
+    "privacyTitle": "Política de Privacidade",
+    "privacyIntro": "ZHUOHENG (\"nós\") respeita sua privacidade. Esta política explica como coletamos, usamos, armazenamos e protegemos suas informações ao usar zhuoheng.com.",
+    "privacyBody": "1. Informações que coletamos\nDe você: nome, empresa, email, telefone, país, conteúdo das cotações, requisitos de personalização.\nAutomaticamente: IP do visitante, tipo de navegador, hora de visita, páginas vistas, URL de origem (para análise e prevenção de abuso).\n\n2. Uso\nApenas para: (a) responder suas cotações; (b) manter relações com clientes e acompanhar pedidos; (c) melhorar o site e produtos; (d) prevenir fraude e abuso.\n\n3. Compartilhamento\nNunca vendemos suas informações pessoais. Compartilhamos apenas com: provedores de email (para enviar respostas), processadores de pagamento (ao pedir) e quando exigido por lei.\n\n4. Retenção\nDados de cotações são mantidos por 3 anos para acompanhamento comercial. Mediante solicitação, excluímos permanentemente em 30 dias.\n\n5. Seus direitos\nVocê pode acessar, corrigir, excluir e portar seus dados, e retirar o consentimento. Email para sales@zhuoheng.com.\n\n6. Cookies\nUsamos cookies essenciais para lembrar suas preferências de idioma/moeda e lista de cotações. Ver Política de Cookies.\n\n7. Segurança\nHTTPS em todo o site; rate limiting e validação de input em formulários; acesso minimizado de funcionários. Nenhuma transmissão pela internet é 100% segura.\n\n8. Transferências internacionais\nNossos servidores estão na Ásia-Pacífico ou Europa. Acesso de outras regiões implica transferência dos seus dados a essas regiões.\n\n9. Atualizações\nEsta política pode ser atualizada. Mudanças materiais serão destacadas no site.",
+    "termsTitle": "Termos de Serviço",
+    "termsIntro": "Ao acessar e usar zhuoheng.com você concorda com estes termos.",
+    "termsBody": "1. Natureza do site\nEste site é a plataforma de exposição de produtos e cotações da ZHUOHENG. As especificações exibidas são apenas referência; o preço formal é confirmado por email.\n\n2. Processo de cotação\nEnviar uma cotação não constitui um pedido. Pedidos requerem confirmação escrita de ambas as partes (email, contrato ou PI).\n\n3. Propriedade intelectual\nConteúdo do site, fotos de produtos e logos são propriedade da ZHUOHENG e não podem ser usados comercialmente sem permissão por escrito.\n\n4. Conduta do usuário\nVocê não pode: enviar código malicioso, submeter cotações fraudulentas, raspar o site para fins competitivos, ou atacar/abusar do serviço.\n\n5. Limitação de responsabilidade\nNa máxima extensão permitida por lei, a ZHUOHENG não é responsável por danos indiretos resultantes do uso do site.\n\n6. Disputas\nEstes termos são regidos pelas leis da República Popular da China. Disputas estão sujeitas à jurisdição do Tribunal Popular de Yiwu.",
+    "cookiesTitle": "Política de Cookies",
+    "cookiesIntro": "Usamos cookies para melhorar sua experiência de navegação.",
+    "cookiesBody": "Cookies essenciais\nUsados para lembrar idioma, moeda e lista de cotações. Não podem ser desabilitados.\n\nCookies analíticos (não habilitados atualmente)\nPodemos adicionar análise de terceiros (ex. Google Analytics) no futuro. Solicitaremos seu consentimento antes.\n\nGerenciamento\nVocê pode excluir cookies nas configurações do navegador. Nota: isso perderá sua preferência de idioma e lista de cotações."
+  },
+  "cookieBanner": {
+    "title": "Usamos cookies",
+    "body": "Este site usa cookies essenciais para lembrar suas preferências de idioma e lista de cotações. Continuar significa que aceita.",
+    "accept": "Aceitar",
+    "details": "Ver política"
+  },
+  "footer": {
+    "tagline": "Fabricante de joias em latão e cobre. Mais de 20.000 modelos, preços diretos da fábrica, envio global. Fundada em 2008 · Yiwu, China.",
+    "shop": "Loja",
+    "newArrivals": "Novidades",
+    "earrings": "Brincos",
+    "brass": "Joias em Latão",
+    "copper": "Joias em Cobre",
+    "byCollection": "Por Coleção",
+    "customOem": "OEM/ODM Personalizado",
+    "service": "Atendimento ao Cliente",
+    "submitInquiry": "Enviar Cotação",
+    "requestSample": "Solicitar Amostra",
+    "pricingMoq": "Preços e MOQ",
+    "paymentTerms": "Condições de Pagamento",
+    "shippingInfo": "Informações de Envio",
+    "faq": "Perguntas Frequentes",
+    "hotline": "Linha Direta",
+    "hoursTitle": "Horário de Atendimento",
+    "hoursVal": "9:00 – 18:00\nSeg – Sáb\nexcl. feriados",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Email",
+    "subscribe": "Inscrever",
+    "copyright": "© {year} Yiwu Zhuoheng Jewellery Co., Ltd. Todos os direitos reservados.",
+    "terms": "Termos e Condições",
+    "termsOfUse": "Termos de Uso",
+    "privacy": "Política de Privacidade",
+    "official": "Declaração Oficial",
+    "sitemap": "Mapa do Site",
+    "cookies": "Política de Cookies"
+  }
+}

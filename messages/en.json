@@ -1,0 +1,487 @@
+{
+  "topbar": {
+    "promo": "Mother's Day Special · Free sample on first order · BV / SGS Certified · Ships to 80+ countries"
+  },
+  "nav": {
+    "newArrivals": "New Arrivals",
+    "earrings": "Earrings",
+    "stud": "Studs",
+    "drop": "Drops",
+    "hoop": "Hoops",
+    "necklace": "Necklaces",
+    "brooch": "Brooches",
+    "set": "Sets",
+    "ring": "Rings",
+    "bracelet": "Bracelets",
+    "comingSoon": "Coming Soon",
+    "brass": "Brass · Gold",
+    "copper": "Copper",
+    "silver": "925 Silver",
+    "customOem": "Custom OEM",
+    "collections": "Collections",
+    "about": "About",
+    "contact": "Contact",
+    "search": "Search",
+    "account": "Account",
+    "stores": "Stores",
+    "wishlist": "Wishlist",
+    "inquiry": "Inquiry"
+  },
+  "common": {
+    "language": "Language",
+    "currency": "Currency",
+    "moq": "Min. Order",
+    "moqShort": "MOQ",
+    "pcs": "pcs",
+    "pairs": "pairs",
+    "addToInquiry": "Add to Inquiry",
+    "viewAll": "View All",
+    "exploreMore": "Explore More",
+    "back": "Back",
+    "submit": "Submit",
+    "sending": "Sending…",
+    "remove": "Remove",
+    "clearAll": "Clear all",
+    "filters": "Filters",
+    "browseCatalogue": "Browse Catalogue",
+    "loading": "Loading…",
+    "submitted": "Submitted",
+    "thankYou": "Thank you",
+    "noteOptional": "Note (optional)",
+    "neverShare": "We never share your information with third parties.",
+    "replies24h": "Replies within 24 hours"
+  },
+  "tags": {
+    "bestseller": "Bestseller",
+    "newArrival": "New Arrival",
+    "oem": "OEM/ODM"
+  },
+  "material": {
+    "925-silver": "925 Silver",
+    "brass-gold": "Brass · Gold-Plated",
+    "brass-silver": "Brass · Silver-Plated",
+    "copper": "Copper",
+    "alloy": "Alloy",
+    "titanium-gold": "Titanium · Gold-Plated",
+    "stainless": "Stainless Steel",
+    "mixed": "Mixed"
+  },
+  "decoration": {
+    "pearl": "Pearl",
+    "cz": "Zircon / CZ",
+    "shell": "Mother-of-Pearl",
+    "enamel": "Enamel",
+    "opal": "Cat's-Eye / Opal",
+    "crystal": "Crystal",
+    "resin": "Resin",
+    "rose-gold-plate": "Rose-Gold Accent"
+  },
+  "category": {
+    "stud": "Studs",
+    "drop": "Drop Earrings",
+    "hoop": "Hoops",
+    "necklace": "Necklaces",
+    "brooch": "Brooches",
+    "set": "Sets",
+    "ring": "Rings",
+    "bracelet": "Bracelets",
+    "earring": "Earrings",
+    "pendant": "Pendants"
+  },
+  "trustBar": {
+    "dailyOutput": "Daily Output",
+    "dailyOutputSub": "1,500 dozen pairs / day",
+    "certified": "Certified Quality",
+    "certifiedSub": "SGS · NGTC · REACH · ISO9001",
+    "lowMoq": "MOQ 120 pairs",
+    "lowMoqSub": "240 pcs per style",
+    "brandOem": "Brand OEM",
+    "brandOemSub": "Miniso · Disney · Sanfu",
+    "globalExport": "Global Export",
+    "globalExportSub": "US · UK · IT · FR · ME · IN · JP"
+  },
+  "hero": {
+    "stat": {
+      "since": "Since",
+      "sinceVal": "2008",
+      "styles": "Styles",
+      "stylesVal": "20K+",
+      "countries": "Countries",
+      "countriesVal": "7+",
+      "minOrder": "Min Order",
+      "minOrderVal": "120 prs"
+    }
+  },
+  "home": {
+    "collections": {
+      "eyebrow": "FEATURED COLLECTIONS",
+      "title": "Featured Collections",
+      "more": "All Collections"
+    },
+    "bestsellers": {
+      "eyebrow": "BESTSELLERS",
+      "title": "This Month's Bestsellers",
+      "more": "View All Bestsellers"
+    },
+    "newArrivals": {
+      "eyebrow": "NEW ARRIVALS",
+      "title": "Just Arrived",
+      "more": "View All New"
+    },
+    "cta": {
+      "eyebrow": "START YOUR ORDER",
+      "title": "Start Your Wholesale Order",
+      "body": "Request a free sample pack, download our latest catalogue, or talk to our export team directly. Replies within 24 hours.",
+      "sample": "Request Free Sample",
+      "catalogue": "Download Catalogue"
+    }
+  },
+  "product": {
+    "moqLine": "MOQ {pairs} prs · {material}",
+    "specs": {
+      "sku": "SKU",
+      "category": "Category",
+      "material": "Material",
+      "plating": "Plating",
+      "style": "Style",
+      "dimensions": "Dimensions",
+      "weight": "Weight",
+      "leadTime": "Lead Time",
+      "stock": "Stock",
+      "moq": "MOQ",
+      "pack": "Pack",
+      "leadTimeDays": "{min}–{max} business days",
+      "stockReady": "Ready stock · 现货",
+      "stockMto": "Made to order · 定制",
+      "moqValue": "{pairs} pairs ({pcs} pcs) · per style",
+      "packValue": "{pack} pcs / inner pack"
+    },
+    "panel": {
+      "orderQty": "Order Quantity",
+      "qtyHint": "= {pairs} pairs · steps of {step} pcs",
+      "oemPrompt": "I'd like to discuss OEM customisation",
+      "oemSub": "Logo / packaging / exclusive design",
+      "noteHint": "Color preference, packaging, target price…",
+      "addBtn": "+ Add to Inquiry",
+      "customBtn": "Custom This Design",
+      "tip": "💡 Add multiple SKUs to your inquiry, then submit one combined quote request. We respond within 24 hours."
+    },
+    "tabs": {
+      "overview": "Overview",
+      "specs": "Specifications",
+      "packing": "Packing & Shipping",
+      "innerPack": "Inner pack",
+      "carton": "Carton",
+      "leadTime": "Lead time",
+      "shipping": "Shipping",
+      "customPack": "Custom packaging",
+      "innerPackVal": "{pack} pcs / poly bag",
+      "cartonVal": "Standard export carton, qty per buyer requirement",
+      "leadTimeVal": "{min}–{max} business days from confirmed order",
+      "shippingVal": "DHL · FedEx · UPS · sea LCL · or your forwarder",
+      "customPackVal": "Available — see OEM page"
+    },
+    "related": {
+      "eyebrow": "You may also like",
+      "title": "Related Styles",
+      "viewAll": "View all"
+    }
+  },
+  "filter": {
+    "category": "Category",
+    "categoryEn": "Category",
+    "material": "Material",
+    "materialEn": "Material",
+    "plating": "Plating",
+    "platingEn": "Plating",
+    "style": "Style",
+    "styleEn": "Style",
+    "collection": "Collection",
+    "collectionEn": "Collection"
+  },
+  "sort": {
+    "label": "Sort by",
+    "best": "Best Match",
+    "newest": "Newest",
+    "moqAsc": "MOQ: Low → High",
+    "stylesFound": "styles"
+  },
+  "pagination": {
+    "prev": "← Prev",
+    "next": "Next →"
+  },
+  "listing": {
+    "breadcrumb": {
+      "home": "Home",
+      "catalogue": "Catalogue"
+    },
+    "header": {
+      "all": "Wholesale Catalogue",
+      "allSub": "全品类批发 / All categories",
+      "category": "{label}",
+      "material": "{label} Jewellery",
+      "collection": "{label}",
+      "plating": "{label}",
+      "style": "{label} Style",
+      "search": "Search: \"{q}\""
+    },
+    "noResults": "No products found",
+    "noResultsSub": "No products match your filters.",
+    "clearFilters": "Clear filters"
+  },
+  "inquiryDrawer": {
+    "title": "Inquiry List",
+    "items": "{n} {n, plural, one {item} other {items}}",
+    "empty": "Your inquiry list is empty",
+    "emptySub": "Browse the catalogue and add items.",
+    "submit": "Submit Inquiry",
+    "footnote": "We respond with a quote within 24 hours."
+  },
+  "inquiryPage": {
+    "eyebrow": "Inquiry List",
+    "title": "Review & submit",
+    "items": "{n} {n, plural, one {item} other {items}} ready for quote",
+    "itemsSection": "Items",
+    "totalLine": "Total: {pcs} pcs across {skus} SKUs",
+    "qty": "Qty:",
+    "needOem": "Need OEM customisation",
+    "noteHint": "Note (color, packaging, target price…)",
+    "form": {
+      "title": "Your Information",
+      "name": "Name *",
+      "company": "Company",
+      "email": "Email *",
+      "phone": "Phone / WhatsApp",
+      "country": "Country / Market *",
+      "countryHint": "Choose…",
+      "additionalNotes": "Additional Notes",
+      "additionalHint": "Target price, deadline, specific requirements…",
+      "submit": "Submit Inquiry"
+    },
+    "thank": {
+      "eyebrow": "Submitted",
+      "title": "Thank you.",
+      "subtitle": "Inquiry received.",
+      "body": "Our export team will review your request and respond with pricing, MOQ confirmation and lead time within 24 hours.",
+      "continueBtn": "Continue Browsing",
+      "homeBtn": "Back to Home"
+    },
+    "empty": {
+      "eyebrow": "Inquiry List",
+      "title": "Your list is empty",
+      "subtitle": "Your inquiry list is empty",
+      "body": "Browse the catalogue and add items you'd like to source — you can request a quote on as many SKUs as you like in one inquiry.",
+      "browse": "Browse Catalogue",
+      "oem": "Custom OEM"
+    },
+    "errors": {
+      "submitFailed": "Something went wrong. Please email sales@zhuoheng.com directly."
+    }
+  },
+  "oemPage": {
+    "hero": {
+      "eyebrow": "Custom OEM / ODM Manufacturing",
+      "titleA": "We make jewellery",
+      "titleB": "your way.",
+      "titleC": "",
+      "body": "Whether you're an established brand, a starting store-owner or an Amazon / Shopify seller — we manufacture exclusive brass and copper jewellery to your design, with your logo, in your packaging.",
+      "startBtn": "Start a Project",
+      "talkBtn": "Talk to a Specialist"
+    },
+    "process": {
+      "eyebrow": "Process",
+      "title": "From sketch to shipment in 20 days.",
+      "body": "Here's how we turn your idea into thousands of finished pieces ready for your customers."
+    },
+    "cases": {
+      "eyebrow": "What We Customise",
+      "title": "Three tiers of customisation.",
+      "body": "From simple logo engraving to fully exclusive designs — pick the level that fits your project."
+    },
+    "form": {
+      "eyebrow": "Send Project Brief",
+      "title": "Tell us about your project.",
+      "body": "Fill in as much detail as you can — the more we know, the more accurate our quote will be. We respond within 24 hours.",
+      "ndaNote": "✓ NDA available on request\n✓ Existing designs welcome\n✓ Reference images / sketches helpful\n✓ All enquiries kept confidential",
+      "name": "Your Name *",
+      "company": "Company Name",
+      "email": "Email Address *",
+      "phone": "Phone / WhatsApp",
+      "country": "Country / Market *",
+      "productTypes": "Product Types * (select all that apply)",
+      "estimatedQty": "Estimated Quantity *",
+      "needs": "Customisation Needs",
+      "needsLogo": "Logo / Stamp",
+      "needsPack": "Custom Packaging",
+      "needsDesign": "Exclusive Design",
+      "budget": "Target Budget per Piece (optional)",
+      "budgetHint": "e.g. USD 1.50 – 3.00",
+      "message": "Project Description *",
+      "messageHint": "Describe your idea, target customers, design references, or any constraints…",
+      "submit": "Submit Project Brief",
+      "thankEyebrow": "Submission Received",
+      "thankTitle": "Thank you.",
+      "thankBody": "Our OEM team will reach out within 24 hours with next steps and initial pricing for your project.",
+      "errorMsg": "Something went wrong. Please try again or email sales@zhuoheng.com"
+    },
+    "process_steps": {
+      "step1Title": "Initial Brief",
+      "step1Body": "Tell us your product idea, target market, MOQ and budget. NDA available.",
+      "step2Title": "Design & Quote",
+      "step2Body": "Our design team creates 2D / 3D renders. We quote unit cost based on materials.",
+      "step3Title": "Sample Production",
+      "step3Body": "We produce a physical sample for your approval. Express-shipped to your office.",
+      "step4Title": "Sample Approval",
+      "step4Body": "You inspect, request changes, and approve. We refine until it's right.",
+      "step5Title": "Bulk Production",
+      "step5Body": "Full production run. Quality control at three stages: casting, plating, finishing.",
+      "step6Title": "Shipping",
+      "step6Body": "Custom-branded packaging, your forwarder or our partner: DHL / FedEx / sea freight."
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "Established 2008 · 17 Years of Craft",
+      "titleA": "Yiwu Jewellery Manufacturer",
+      "titleB": "A Yiwu jewellery manufacturer for the world.",
+      "body": "ZHUOHENG was founded in 2008 with 17 years of brass and copper jewellery manufacturing experience. From our 3,000 m² modern facility we supply Miniso, Disney, Sanfu, Ling-Li, COBEN and other brands; products ship to the US, UK, Italy, France, the Middle East, India and Japan, with an 18-year stable relationship with Italian buyers.",
+      "oemBtn": "Custom OEM",
+      "visitBtn": "Visit Our Factory"
+    },
+    "stats": {
+      "since": "Established",
+      "facility": "Facility",
+      "artisans": "Artisans",
+      "skus": "In-House SKUs"
+    },
+    "capacity": {
+      "title": "Production Capacity",
+      "titleEn": "Production Capacity"
+    },
+    "quality": {
+      "eyebrow": "Quality & Craft",
+      "title": "Eco brass · Real-gold plating · 12-month no tarnish",
+      "body": "Lead-free certified brass and copper. Real-gold electroplating with 0.03 μm coating thickness — guaranteed colour-fast for 12 months under normal wear. Every piece passes 7 production stages and 3 independent QC checks."
+    },
+    "clients": {
+      "title": "Brand Clients",
+      "subtitle": "We've manufactured for these brands. Their quality standards are now baked into every line that comes off our factory floor.",
+      "italyYears": "Italian buyer relationship",
+      "exports": "Export markets",
+      "counters": "Self-operated trade counters",
+      "marketsLine": "Markets: USA · UK · Italy · France · Middle East · India · Japan"
+    },
+    "visit": {
+      "eyebrow": "Visit",
+      "title": "Welcome to walk our factory floor.",
+      "body": "We host buyers and brand teams for in-person factory tours. See our equipment, meet our QC team, and inspect samples on the spot.",
+      "bookBtn": "Book a Visit",
+      "customBtn": "Start a Custom Project"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Get a wholesale quote.",
+    "subtitle": "Replies within 24 hours",
+    "form": {
+      "eyebrow": "Send Inquiry",
+      "title": "Tell us what you're sourcing.",
+      "body": "Fill in the form and our export team will respond within 24 hours with pricing, MOQ, lead-time and a sample plan if needed.",
+      "office": "Office",
+      "officeLines": "Yiwu Zhuoheng Jewellery Co., Ltd.|Yiwu, China|(replace with your actual address)",
+      "hours": "Hours",
+      "hoursLines": "Monday – Saturday · 9:00 – 18:00 (UTC+8)|Closed on Chinese public holidays",
+      "languages": "Languages",
+      "languagesLines": "English · 中文",
+      "name": "Your Name *",
+      "company": "Company Name",
+      "email": "Email Address *",
+      "phone": "Phone / WhatsApp",
+      "country": "Country / Market *",
+      "message": "Message *",
+      "messageHint": "Tell us about the products you're sourcing, target quantity, market and any deadlines.",
+      "submit": "Send Inquiry",
+      "thankEyebrow": "Submitted",
+      "thankTitle": "Thank you for reaching out.",
+      "thankBody": "Our export team will reply within 24 hours.",
+      "errorMsg": "Something went wrong. Please email sales@zhuoheng.com directly."
+    },
+    "channels": {
+      "email": "Email",
+      "emailSub": "Replies within 24 hours",
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "Mon–Sat · 9:00 – 18:00 (UTC+8)",
+      "wechat": "WeChat",
+      "wechatSub": "ID: zhuoheng_sales · Instant chat"
+    },
+    "map": {
+      "title": "Factory Location",
+      "company": "ZHUOHENG Factory",
+      "city": "Yiwu, China",
+      "note": "Map integration coming with batch 3 — for now book via email or WhatsApp."
+    }
+  },
+  "comingSoon": {
+    "eyebrow": "Coming Soon",
+    "body": "This page is being prepared. In the meantime, please contact us directly for any enquiries.",
+    "homeBtn": "Back to Home",
+    "oemBtn": "Custom OEM"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Page Not Found",
+    "subtitle": "页面未找到",
+    "body": "The page you are looking for doesn't exist or has been moved.",
+    "homeBtn": "Back to Home",
+    "oemBtn": "Custom OEM"
+  },
+  "legal": {
+    "lastUpdated": "Last updated: {date}",
+    "contactNote": "Questions? Email sales@zhuoheng.com",
+    "privacyTitle": "Privacy Policy",
+    "privacyIntro": "ZHUOHENG (\"we\") respects your privacy. This policy explains how we collect, use, store and protect your information when you use zhuoheng.com.",
+    "privacyBody": "1. Information we collect\nFrom you: name, company, email, phone, country, inquiry contents, customisation requirements.\nAutomatic: visitor IP, browser type, visit time, pages viewed, referrer URL (for analytics and abuse prevention).\n\n2. How we use it\nOnly for: (a) responding to your inquiry and quotation; (b) maintaining customer relationships and order follow-up; (c) improving the site and products; (d) preventing fraud and abuse.\n\n3. Sharing\nWe never sell your personal information. We share only with: email service providers (to send replies), payment processors (when you order), and where legally required.\n\n4. Retention\nInquiry data is kept for 3 years for business follow-up. On your request, we delete it permanently within 30 days.\n\n5. Your rights\nYou may access, correct, delete, port your data, and withdraw consent. Email sales@zhuoheng.com to exercise these rights.\n\n6. Cookies\nWe use essential cookies to remember your language/currency preferences and inquiry list. See Cookie Policy.\n\n7. Security\nHTTPS site-wide; rate limiting and input validation on inquiry forms; minimised employee access. No internet transmission is 100% secure — please be cautious with sensitive information.\n\n8. International transfers\nOur servers are in Asia-Pacific or Europe. Accessing from other regions means your data is transferred to these regions for processing.\n\n9. Updates\nThis policy may be updated. Material changes will be highlighted on the site.",
+    "termsTitle": "Terms of Service",
+    "termsIntro": "By accessing and using zhuoheng.com you agree to these terms.",
+    "termsBody": "1. Nature of the site\nThis site is ZHUOHENG's product showcase and inquiry platform. All displayed specifications are reference only; formal pricing is confirmed by email.\n\n2. Inquiry process\nSubmitting an inquiry does not constitute an order. Orders require written confirmation from both parties (email, contract or PI).\n\n3. Intellectual property\nSite content, product photographs and logos are the property of ZHUOHENG and may not be used commercially without written permission. Copyright in OEM-exclusive designs is governed by the applicable contract.\n\n4. User conduct\nYou may not: upload malicious code, submit fraudulent inquiries, scrape the site for competitive purposes, or attack/abuse the service.\n\n5. Limitation of liability\nTo the fullest extent permitted by law, ZHUOHENG is not liable for indirect damages arising from use of the site.\n\n6. Disputes\nThese terms are governed by the laws of the People's Republic of China. Disputes are subject to the jurisdiction of the Yiwu People's Court.",
+    "cookiesTitle": "Cookie Policy",
+    "cookiesIntro": "We use cookies to improve your browsing experience.",
+    "cookiesBody": "Essential cookies\nUsed to remember language, currency and inquiry list. These cannot be disabled.\n\nAnalytics cookies (not currently enabled)\nWe may add third-party analytics (e.g. Google Analytics) in the future. We will request your consent before enabling.\n\nManagement\nYou can delete cookies in your browser settings. Note: doing so will lose your language preference and inquiry list."
+  },
+  "cookieBanner": {
+    "title": "We use cookies",
+    "body": "This site uses essential cookies to remember your language preferences and inquiry list. Continuing means you accept.",
+    "accept": "Accept",
+    "details": "View policy"
+  },
+  "footer": {
+    "tagline": "Brass & copper jewellery manufacturer. 20,000+ styles, direct factory prices, global shipping. Est. 2008 · Yiwu, China.",
+    "shop": "Shop",
+    "newArrivals": "New Arrivals",
+    "earrings": "Earrings",
+    "brass": "Brass Jewellery",
+    "copper": "Copper Jewellery",
+    "byCollection": "By Collection",
+    "customOem": "Custom OEM/ODM",
+    "service": "Customer Service",
+    "submitInquiry": "Submit an Inquiry",
+    "requestSample": "Request a Sample",
+    "pricingMoq": "Pricing & MOQ",
+    "paymentTerms": "Payment Terms",
+    "shippingInfo": "Shipping Info",
+    "faq": "FAQ",
+    "hotline": "Customer Hotline",
+    "hoursTitle": "Service Hours",
+    "hoursVal": "9:00 – 18:00\nMon – Sat\nexcl. public holidays",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Email",
+    "subscribe": "Subscribe",
+    "copyright": "© {year} Yiwu Zhuoheng Jewellery Co., Ltd. All rights reserved.",
+    "terms": "Terms & Conditions",
+    "termsOfUse": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "official": "Official Statement",
+    "sitemap": "Sitemap",
+    "cookies": "Cookie Policy"
+  }
+}

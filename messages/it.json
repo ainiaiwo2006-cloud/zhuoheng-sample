@@ -1,0 +1,487 @@
+{
+  "topbar": {
+    "promo": "Promozione speciale · Campione gratuito al primo ordine · Certificato BV / SGS · Spedizione in oltre 80 paesi"
+  },
+  "nav": {
+    "newArrivals": "Novità",
+    "earrings": "Orecchini",
+    "stud": "Orecchini a Lobo",
+    "drop": "Orecchini Pendenti",
+    "hoop": "Cerchi",
+    "necklace": "Collane",
+    "brooch": "Spille",
+    "set": "Parure",
+    "ring": "Anelli",
+    "bracelet": "Bracciali",
+    "comingSoon": "Prossimamente",
+    "brass": "Ottone Dorato",
+    "copper": "Rame",
+    "silver": "Argento 925",
+    "customOem": "OEM su Misura",
+    "collections": "Collezioni",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "search": "Cerca",
+    "account": "Account",
+    "stores": "Negozi",
+    "wishlist": "Preferiti",
+    "inquiry": "Richiesta"
+  },
+  "common": {
+    "language": "Lingua",
+    "currency": "Valuta",
+    "moq": "Ordine Minimo",
+    "moqShort": "MOQ",
+    "pcs": "pz",
+    "pairs": "paia",
+    "addToInquiry": "Aggiungi alla Richiesta",
+    "viewAll": "Vedi Tutto",
+    "exploreMore": "Scopri di Più",
+    "back": "Indietro",
+    "submit": "Invia",
+    "sending": "Invio in corso…",
+    "remove": "Rimuovi",
+    "clearAll": "Cancella Tutto",
+    "filters": "Filtri",
+    "browseCatalogue": "Sfoglia Catalogo",
+    "loading": "Caricamento…",
+    "submitted": "Inviato",
+    "thankYou": "Grazie",
+    "noteOptional": "Nota (facoltativa)",
+    "neverShare": "Non condivideremo mai i tuoi dati con terzi.",
+    "replies24h": "Risposta entro 24 ore"
+  },
+  "tags": {
+    "bestseller": "Bestseller",
+    "newArrival": "Novità",
+    "oem": "OEM/ODM"
+  },
+  "material": {
+    "925-silver": "Argento 925",
+    "brass-gold": "Ottone · Placcato Oro",
+    "brass-silver": "Ottone · Placcato Argento",
+    "copper": "Rame",
+    "alloy": "Lega",
+    "titanium-gold": "Acciaio al Titanio · Oro",
+    "stainless": "Acciaio Inox",
+    "mixed": "Misto"
+  },
+  "decoration": {
+    "pearl": "Perla",
+    "cz": "Zircone / CZ",
+    "shell": "Madreperla",
+    "enamel": "Smalto",
+    "opal": "Occhio di Gatto / Opale",
+    "crystal": "Cristallo",
+    "resin": "Resina",
+    "rose-gold-plate": "Tocco Oro Rosa"
+  },
+  "category": {
+    "stud": "Orecchini a Lobo",
+    "drop": "Orecchini Pendenti",
+    "hoop": "Cerchi",
+    "necklace": "Collane",
+    "brooch": "Spille",
+    "set": "Parure",
+    "ring": "Anelli",
+    "bracelet": "Bracciali",
+    "earring": "Orecchini",
+    "pendant": "Pendenti"
+  },
+  "trustBar": {
+    "dailyOutput": "Produzione Giornaliera",
+    "dailyOutputSub": "1.500 dozzine / giorno",
+    "certified": "Qualità Certificata",
+    "certifiedSub": "SGS · NGTC · REACH · ISO9001",
+    "lowMoq": "MOQ da 120 paia",
+    "lowMoqSub": "240 pz per modello",
+    "brandOem": "OEM per Brand",
+    "brandOemSub": "Miniso · Disney · Sanfu",
+    "globalExport": "Export Globale",
+    "globalExportSub": "USA · UK · IT · FR · ME · IN · JP"
+  },
+  "hero": {
+    "stat": {
+      "since": "Dal",
+      "sinceVal": "2008",
+      "styles": "Modelli",
+      "stylesVal": "20K+",
+      "countries": "Paesi",
+      "countriesVal": "7+",
+      "minOrder": "MOQ",
+      "minOrderVal": "120 paia"
+    }
+  },
+  "home": {
+    "collections": {
+      "eyebrow": "COLLEZIONI IN EVIDENZA",
+      "title": "Collezioni in Evidenza",
+      "more": "Tutte le Collezioni"
+    },
+    "bestsellers": {
+      "eyebrow": "BESTSELLER",
+      "title": "I Bestseller del Mese",
+      "more": "Tutti i Bestseller"
+    },
+    "newArrivals": {
+      "eyebrow": "NOVITÀ",
+      "title": "Appena Arrivati",
+      "more": "Tutte le Novità"
+    },
+    "cta": {
+      "eyebrow": "INIZIA L'ORDINE",
+      "title": "Avvia il Tuo Ordine all'Ingrosso",
+      "body": "Richiedi un kit campione gratuito, scarica il nostro ultimo catalogo o parla direttamente con il nostro team export. Risposta entro 24 ore.",
+      "sample": "Richiedi Campione Gratuito",
+      "catalogue": "Scarica Catalogo"
+    }
+  },
+  "product": {
+    "moqLine": "MOQ {pairs} paia · {material}",
+    "specs": {
+      "sku": "SKU",
+      "category": "Categoria",
+      "material": "Materiale",
+      "plating": "Placcatura",
+      "style": "Stile",
+      "dimensions": "Dimensioni",
+      "weight": "Peso",
+      "leadTime": "Tempo di Consegna",
+      "stock": "Disponibilità",
+      "moq": "MOQ",
+      "pack": "Confezione",
+      "leadTimeDays": "{min}–{max} giorni lavorativi",
+      "stockReady": "Pronto · 现货",
+      "stockMto": "Su ordinazione · 定制",
+      "moqValue": "{pairs} paia ({pcs} pz) · per modello",
+      "packValue": "{pack} pz / confezione interna"
+    },
+    "panel": {
+      "orderQty": "Quantità Ordine",
+      "qtyHint": "= {pairs} paia · passi di {step} pz",
+      "oemPrompt": "Vorrei discutere personalizzazione OEM",
+      "oemSub": "Logo / packaging / design esclusivo",
+      "noteHint": "Preferenza colore, packaging, prezzo target…",
+      "addBtn": "+ Aggiungi alla Richiesta",
+      "customBtn": "Personalizza Questo Design",
+      "tip": "💡 Aggiungi più SKU alla tua richiesta e invia un'unica preventivazione. Risposta entro 24 ore."
+    },
+    "tabs": {
+      "overview": "Panoramica",
+      "specs": "Specifiche",
+      "packing": "Imballaggio e Spedizione",
+      "innerPack": "Confezione interna",
+      "carton": "Cartone",
+      "leadTime": "Tempo",
+      "shipping": "Spedizione",
+      "customPack": "Imballaggio personalizzato",
+      "innerPackVal": "{pack} pz / sacchetto",
+      "cartonVal": "Cartone export standard, qtà secondo richiesta cliente",
+      "leadTimeVal": "{min}–{max} giorni lavorativi dalla conferma",
+      "shippingVal": "DHL · FedEx · UPS · LCL via mare · o vostro spedizioniere",
+      "customPackVal": "Disponibile — vedi pagina OEM"
+    },
+    "related": {
+      "eyebrow": "Potrebbero piacerti",
+      "title": "Modelli Correlati",
+      "viewAll": "Vedi tutto"
+    }
+  },
+  "filter": {
+    "category": "Categoria",
+    "categoryEn": "Category",
+    "material": "Materiale",
+    "materialEn": "Material",
+    "plating": "Placcatura",
+    "platingEn": "Plating",
+    "style": "Stile",
+    "styleEn": "Style",
+    "collection": "Collezione",
+    "collectionEn": "Collection"
+  },
+  "sort": {
+    "label": "Ordina per",
+    "best": "Più Pertinenti",
+    "newest": "Più Recenti",
+    "moqAsc": "MOQ: dal più basso",
+    "stylesFound": "modelli"
+  },
+  "pagination": {
+    "prev": "← Precedente",
+    "next": "Successivo →"
+  },
+  "listing": {
+    "breadcrumb": {
+      "home": "Home",
+      "catalogue": "Catalogo"
+    },
+    "header": {
+      "all": "Catalogo all'Ingrosso",
+      "allSub": "Tutte le categorie",
+      "category": "{label}",
+      "material": "Gioielli in {label}",
+      "collection": "{label}",
+      "plating": "{label}",
+      "style": "Stile {label}",
+      "search": "Cerca: «{q}»"
+    },
+    "noResults": "Nessun prodotto trovato",
+    "noResultsSub": "Nessun prodotto corrisponde ai filtri.",
+    "clearFilters": "Cancella filtri"
+  },
+  "inquiryDrawer": {
+    "title": "Lista Richieste",
+    "items": "{n} {n, plural, one {articolo} other {articoli}}",
+    "empty": "La tua lista richieste è vuota",
+    "emptySub": "Sfoglia il catalogo e aggiungi articoli.",
+    "submit": "Invia Richiesta",
+    "footnote": "Risposta con preventivo entro 24 ore."
+  },
+  "inquiryPage": {
+    "eyebrow": "Lista Richieste",
+    "title": "Verifica e invia",
+    "items": "{n} {n, plural, one {articolo pronto} other {articoli pronti}} per preventivo",
+    "itemsSection": "Articoli",
+    "totalLine": "Totale: {pcs} pz su {skus} SKU",
+    "qty": "Q.tà:",
+    "needOem": "Ho bisogno di personalizzazione OEM",
+    "noteHint": "Nota (colore, packaging, prezzo target…)",
+    "form": {
+      "title": "I Tuoi Dati",
+      "name": "Nome *",
+      "company": "Azienda",
+      "email": "Email *",
+      "phone": "Telefono / WhatsApp",
+      "country": "Paese / Mercato *",
+      "countryHint": "Scegli…",
+      "additionalNotes": "Note Aggiuntive",
+      "additionalHint": "Prezzo target, scadenza, requisiti specifici…",
+      "submit": "Invia Richiesta"
+    },
+    "thank": {
+      "eyebrow": "Inviato",
+      "title": "Grazie.",
+      "subtitle": "Richiesta ricevuta.",
+      "body": "Il nostro team export valuterà la tua richiesta e risponderà con prezzi, MOQ e tempi entro 24 ore.",
+      "continueBtn": "Continua a Esplorare",
+      "homeBtn": "Torna alla Home"
+    },
+    "empty": {
+      "eyebrow": "Lista Richieste",
+      "title": "La tua lista è vuota",
+      "subtitle": "Lista richieste vuota",
+      "body": "Sfoglia il catalogo e aggiungi gli articoli che vuoi quotare — puoi richiedere un preventivo per quanti SKU desideri in un'unica richiesta.",
+      "browse": "Sfoglia Catalogo",
+      "oem": "OEM su Misura"
+    },
+    "errors": {
+      "submitFailed": "Qualcosa è andato storto. Scrivi a sales@zhuoheng.com"
+    }
+  },
+  "oemPage": {
+    "hero": {
+      "eyebrow": "Produzione OEM / ODM su Misura",
+      "titleA": "Realizziamo gioielli",
+      "titleB": "a modo tuo.",
+      "titleC": "",
+      "body": "Brand affermato, nuovo negoziante o seller Amazon / Shopify — produciamo gioielli esclusivi in ottone e rame con il tuo design, il tuo logo e il tuo packaging.",
+      "startBtn": "Avvia un Progetto",
+      "talkBtn": "Parla con un Esperto"
+    },
+    "process": {
+      "eyebrow": "Processo",
+      "title": "Dallo schizzo alla spedizione in 20 giorni.",
+      "body": "Ecco come trasformiamo la tua idea in migliaia di pezzi finiti pronti per i tuoi clienti."
+    },
+    "cases": {
+      "eyebrow": "Cosa Personalizziamo",
+      "title": "Tre livelli di personalizzazione.",
+      "body": "Dal logo inciso al design completamente esclusivo — scegli il livello adatto al tuo progetto."
+    },
+    "form": {
+      "eyebrow": "Invia Brief Progetto",
+      "title": "Parlaci del tuo progetto.",
+      "body": "Più dettagli ci dai, più precisa sarà la quotazione. Risposta entro 24 ore.",
+      "ndaNote": "✓ NDA disponibile su richiesta\n✓ Accettiamo design esistenti\n✓ Immagini di riferimento / schizzi sono utili\n✓ Tutte le richieste sono confidenziali",
+      "name": "Nome *",
+      "company": "Azienda",
+      "email": "Email *",
+      "phone": "Telefono / WhatsApp",
+      "country": "Paese / Mercato *",
+      "productTypes": "Tipi di Prodotto * (selezione multipla)",
+      "estimatedQty": "Quantità Stimata *",
+      "needs": "Esigenze di Personalizzazione",
+      "needsLogo": "Logo / Stampaggio",
+      "needsPack": "Packaging Personalizzato",
+      "needsDesign": "Design Esclusivo",
+      "budget": "Budget per Pezzo (facoltativo)",
+      "budgetHint": "es. USD 1,50 – 3,00",
+      "message": "Descrizione del Progetto *",
+      "messageHint": "Descrivi la tua idea, i clienti target, le referenze di design o eventuali vincoli…",
+      "submit": "Invia Brief",
+      "thankEyebrow": "Ricevuto",
+      "thankTitle": "Grazie.",
+      "thankBody": "Il nostro team OEM ti contatterà entro 24 ore con i prossimi passi e una stima di prezzo.",
+      "errorMsg": "Qualcosa è andato storto. Riprova o scrivi a sales@zhuoheng.com"
+    },
+    "process_steps": {
+      "step1Title": "Brief Iniziale",
+      "step1Body": "Raccontaci la tua idea, mercato target, MOQ e budget. NDA disponibile.",
+      "step2Title": "Design e Quotazione",
+      "step2Body": "Il nostro team crea render 2D / 3D. Quotiamo in base ai materiali.",
+      "step3Title": "Produzione Campione",
+      "step3Body": "Realizziamo un campione fisico per la tua approvazione. Spedizione express al tuo ufficio.",
+      "step4Title": "Approvazione Campione",
+      "step4Body": "Tu controlli, chiedi modifiche e approvi. Rifiniamo finché è perfetto.",
+      "step5Title": "Produzione in Serie",
+      "step5Body": "Produzione completa. Controllo qualità in tre fasi: fusione, placcatura, finitura.",
+      "step6Title": "Spedizione",
+      "step6Body": "Packaging brandizzato, tuo spedizioniere o nostro partner: DHL / FedEx / via mare."
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "Fondata nel 2008 · 17 Anni di Mestiere",
+      "titleA": "Fabbrica di Gioielli a Yiwu",
+      "titleB": "Una manifattura di Yiwu per il mondo.",
+      "body": "ZHUOHENG è stata fondata nel 2008 con 17 anni di esperienza nella produzione di gioielli in ottone e rame. Dalla nostra struttura moderna di 3.000 m² forniamo Miniso, Disney, Sanfu, Ling-Li, COBEN e altri brand; i prodotti vengono spediti in USA, UK, Italia, Francia, Medio Oriente, India e Giappone, con una collaborazione stabile da 18 anni con clienti italiani.",
+      "oemBtn": "OEM su Misura",
+      "visitBtn": "Visita la Fabbrica"
+    },
+    "stats": {
+      "since": "Fondata",
+      "facility": "Stabilimento",
+      "artisans": "Artigiani",
+      "skus": "SKU Interni"
+    },
+    "capacity": {
+      "title": "Capacità Produttiva",
+      "titleEn": "Production Capacity"
+    },
+    "quality": {
+      "eyebrow": "Qualità e Mestiere",
+      "title": "Ottone ecologico · Placcatura oro reale · 12 mesi senza ossidazione",
+      "body": "Ottone e rame certificati senza piombo. Galvanica con oro reale, spessore 0,03 μm — garanzia di non scolorimento per 12 mesi con uso normale. Ogni pezzo passa 7 fasi di produzione e 3 controlli qualità indipendenti."
+    },
+    "clients": {
+      "title": "Clienti Brand",
+      "subtitle": "Abbiamo prodotto per questi marchi. I loro standard di qualità sono ormai integrati in ogni linea che esce dalla nostra fabbrica.",
+      "italyYears": "Rapporto con cliente italiano",
+      "exports": "Mercati di export",
+      "counters": "Negozi propri",
+      "marketsLine": "Mercati: USA · UK · Italia · Francia · Medio Oriente · India · Giappone"
+    },
+    "visit": {
+      "eyebrow": "Visita",
+      "title": "Benvenuto a visitare la nostra fabbrica.",
+      "body": "Ospitiamo buyer e team di brand per visite in loco. Vedi i nostri macchinari, incontra il team QC e ispeziona i campioni sul posto.",
+      "bookBtn": "Prenota una Visita",
+      "customBtn": "Avvia Progetto su Misura"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "Contatti",
+    "title": "Richiedi un preventivo all'ingrosso.",
+    "subtitle": "Risposta entro 24 ore",
+    "form": {
+      "eyebrow": "Invia Richiesta",
+      "title": "Dicci cosa stai cercando.",
+      "body": "Compila il modulo e il nostro team export risponderà entro 24 ore con prezzi, MOQ, tempi e piano campioni se necessario.",
+      "office": "Ufficio",
+      "officeLines": "Yiwu Zhuoheng Jewellery Co., Ltd.|Yiwu, Cina|(sostituire con indirizzo reale)",
+      "hours": "Orari",
+      "hoursLines": "Lunedì – Sabato · 9:00 – 18:00 (UTC+8)|Chiuso nei festivi cinesi",
+      "languages": "Lingue",
+      "languagesLines": "English · Italiano · 中文",
+      "name": "Nome *",
+      "company": "Azienda",
+      "email": "Email *",
+      "phone": "Telefono / WhatsApp",
+      "country": "Paese / Mercato *",
+      "message": "Messaggio *",
+      "messageHint": "Descrivi i prodotti che cerchi, quantità target, mercato e scadenze.",
+      "submit": "Invia Richiesta",
+      "thankEyebrow": "Ricevuto",
+      "thankTitle": "Grazie per averci contattato.",
+      "thankBody": "Il nostro team export risponderà entro 24 ore.",
+      "errorMsg": "Qualcosa è andato storto. Scrivi direttamente a sales@zhuoheng.com"
+    },
+    "channels": {
+      "email": "Email",
+      "emailSub": "Risposta entro 24 ore",
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "Lun–Sab · 9:00 – 18:00 (UTC+8)",
+      "wechat": "WeChat",
+      "wechatSub": "ID: zhuoheng_sales · Chat istantanea"
+    },
+    "map": {
+      "title": "Posizione Fabbrica",
+      "company": "Fabbrica ZHUOHENG",
+      "city": "Yiwu, Cina",
+      "note": "Integrazione mappa in arrivo — per ora prenota via email o WhatsApp."
+    }
+  },
+  "comingSoon": {
+    "eyebrow": "Prossimamente",
+    "body": "Questa pagina è in preparazione. Nel frattempo, contattaci direttamente.",
+    "homeBtn": "Torna alla Home",
+    "oemBtn": "OEM su Misura"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Pagina Non Trovata",
+    "subtitle": "Page Not Found",
+    "body": "La pagina che cerchi non esiste o è stata spostata.",
+    "homeBtn": "Torna alla Home",
+    "oemBtn": "OEM su Misura"
+  },
+  "legal": {
+    "lastUpdated": "Ultimo aggiornamento: {date}",
+    "contactNote": "Domande? Scrivi a sales@zhuoheng.com",
+    "privacyTitle": "Informativa Privacy",
+    "privacyIntro": "ZHUOHENG (\"noi\") rispetta la tua privacy. Questa policy spiega come raccogliamo, utilizziamo, conserviamo e proteggiamo le tue informazioni quando usi zhuoheng.com.",
+    "privacyBody": "1. Informazioni che raccogliamo\nDa te: nome, azienda, email, telefono, paese, contenuto delle richieste, esigenze di personalizzazione.\nAutomaticamente: IP del visitatore, tipo di browser, orario della visita, pagine viste, URL di provenienza (per analisi e prevenzione abusi).\n\n2. Utilizzo\nSolo per: (a) rispondere alle richieste e quotazioni; (b) mantenere relazioni con i clienti e seguire ordini; (c) migliorare il sito e i prodotti; (d) prevenire frodi e abusi.\n\n3. Condivisione\nNon vendiamo mai le tue informazioni personali. Le condividiamo solo con: provider email (per inviare risposte), processori di pagamento (al momento dell'ordine) e dove richiesto dalla legge.\n\n4. Conservazione\nI dati delle richieste sono conservati per 3 anni per follow-up commerciale. Su tua richiesta, li eliminiamo permanentemente entro 30 giorni.\n\n5. I tuoi diritti\nPuoi accedere, correggere, eliminare e portare i tuoi dati, e revocare il consenso. Email a sales@zhuoheng.com per esercitare questi diritti.\n\n6. Cookie\nUsiamo cookie essenziali per ricordare le preferenze di lingua/valuta e la lista richieste. Vedi Cookie Policy.\n\n7. Sicurezza\nHTTPS in tutto il sito; rate limiting e validazione input sui form; accesso del personale ridotto al minimo. Nessuna trasmissione internet è sicura al 100%.\n\n8. Trasferimenti internazionali\nI nostri server sono in Asia-Pacifico o Europa. L'accesso da altre regioni implica il trasferimento dei tuoi dati a queste regioni.\n\n9. Aggiornamenti\nQuesta policy può essere aggiornata. Le modifiche significative saranno evidenziate sul sito.",
+    "termsTitle": "Termini di Servizio",
+    "termsIntro": "Accedendo e utilizzando zhuoheng.com accetti questi termini.",
+    "termsBody": "1. Natura del sito\nQuesto sito è la piattaforma di esposizione prodotti e richieste di ZHUOHENG. Tutte le specifiche mostrate sono solo di riferimento; il prezzo formale è confermato via email.\n\n2. Processo di richiesta\nInviare una richiesta non costituisce un ordine. Gli ordini richiedono conferma scritta da entrambe le parti (email, contratto o PI).\n\n3. Proprietà intellettuale\nIl contenuto del sito, le foto prodotti e i loghi sono proprietà di ZHUOHENG e non possono essere usati commercialmente senza permesso scritto.\n\n4. Comportamento dell'utente\nNon puoi: caricare codice malevolo, inviare richieste fraudolente, fare scraping del sito per scopi competitivi, o attaccare/abusare del servizio.\n\n5. Limitazione di responsabilità\nNella misura massima consentita dalla legge, ZHUOHENG non è responsabile per danni indiretti derivanti dall'uso del sito.\n\n6. Controversie\nQuesti termini sono regolati dalle leggi della Repubblica Popolare Cinese. Le controversie sono soggette alla giurisdizione del Tribunale del Popolo di Yiwu.",
+    "cookiesTitle": "Cookie Policy",
+    "cookiesIntro": "Usiamo cookie per migliorare la tua esperienza di navigazione.",
+    "cookiesBody": "Cookie essenziali\nUsati per ricordare lingua, valuta e lista richieste. Non possono essere disabilitati.\n\nCookie analitici (attualmente non abilitati)\nPotremmo aggiungere analytics di terze parti (es. Google Analytics) in futuro. Richiederemo il tuo consenso prima.\n\nGestione\nPuoi eliminare i cookie nelle impostazioni del browser. Nota: farlo perderà la tua preferenza di lingua e la lista richieste."
+  },
+  "cookieBanner": {
+    "title": "Usiamo cookie",
+    "body": "Questo sito usa cookie essenziali per ricordare le preferenze di lingua e la lista richieste. Continuare significa accettare.",
+    "accept": "Accetta",
+    "details": "Vedi policy"
+  },
+  "footer": {
+    "tagline": "Produttore di gioielli in ottone e rame. Oltre 20.000 modelli, prezzi diretti dalla fabbrica, spedizioni globali. Fondata nel 2008 · Yiwu, Cina.",
+    "shop": "Negozio",
+    "newArrivals": "Novità",
+    "earrings": "Orecchini",
+    "brass": "Gioielli in Ottone",
+    "copper": "Gioielli in Rame",
+    "byCollection": "Per Collezione",
+    "customOem": "OEM/ODM su Misura",
+    "service": "Assistenza Clienti",
+    "submitInquiry": "Invia Richiesta",
+    "requestSample": "Richiedi Campione",
+    "pricingMoq": "Prezzi e MOQ",
+    "paymentTerms": "Modalità di Pagamento",
+    "shippingInfo": "Info Spedizioni",
+    "faq": "Domande Frequenti",
+    "hotline": "Numero Verde",
+    "hoursTitle": "Orari di Servizio",
+    "hoursVal": "9:00 – 18:00\nLun – Sab\nesclusi festivi",
+    "newsletter": "Newsletter",
+    "emailPlaceholder": "Email",
+    "subscribe": "Iscriviti",
+    "copyright": "© {year} Yiwu Zhuoheng Jewellery Co., Ltd. Tutti i diritti riservati.",
+    "terms": "Termini e Condizioni",
+    "termsOfUse": "Termini d'Uso",
+    "privacy": "Informativa Privacy",
+    "official": "Dichiarazione Ufficiale",
+    "sitemap": "Mappa del Sito",
+    "cookies": "Politica sui Cookie"
+  }
+}

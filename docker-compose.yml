@@ -1,0 +1,41 @@
+# JUYUFANG production stack — single-host deployment.
+#
+# Services:
+#   web        — Next.js standalone server (port 3000, behind nginx)
+#   meilisearch — search backend (commented out until you wire up search)
+#
+# Usage:
+#   docker compose up -d --build
+#   docker compose logs -f web
+#
+# Update flow:
+#   git pull && docker compose up -d --build
+
+services:
+  web:
+    build: .
+    container_name: juyufang-web
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3000:3000"   # bind localhost; nginx fronts the public port
+    environment:
+      NODE_ENV: production
+    # All SMTP_* / NEXT_PUBLIC_SITE_URL etc. come from .env
+    env_file:
+      - .env
+
+  # ── Search (Meilisearch) — uncomment when you wire it up ────────
+  # meilisearch:
+  #   image: getmeili/meilisearch:v1.10
+  #   container_name: juyufang-search
+  #   restart: unless-stopped
+  #   ports:
+  #     - "127.0.0.1:7700:7700"
+  #   environment:
+  #     MEILI_MASTER_KEY: __long_random_string__
+  #     MEILI_ENV: production
+  #   volumes:
+  #     - meili_data:/meili_data
+
+# volumes:
+#   meili_data:

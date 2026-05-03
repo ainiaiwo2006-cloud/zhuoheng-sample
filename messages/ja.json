@@ -1,0 +1,487 @@
+{
+  "topbar": {
+    "promo": "限定キャンペーン · 初回ご注文に無料サンプル · BV / SGS 認証 · 80か国以上に発送"
+  },
+  "nav": {
+    "newArrivals": "新着商品",
+    "earrings": "イヤリング",
+    "stud": "スタッドピアス",
+    "drop": "ドロップピアス",
+    "hoop": "フープピアス",
+    "necklace": "ネックレス",
+    "brooch": "ブローチ",
+    "set": "セット",
+    "ring": "リング",
+    "bracelet": "ブレスレット",
+    "comingSoon": "準備中",
+    "brass": "真鍮ゴールド",
+    "copper": "銅",
+    "silver": "925 シルバー",
+    "customOem": "OEM カスタム",
+    "collections": "コレクション",
+    "about": "私たちについて",
+    "contact": "お問い合わせ",
+    "search": "検索",
+    "account": "アカウント",
+    "stores": "店舗",
+    "wishlist": "お気に入り",
+    "inquiry": "問い合わせ"
+  },
+  "common": {
+    "language": "言語",
+    "currency": "通貨",
+    "moq": "最低発注数",
+    "moqShort": "MOQ",
+    "pcs": "個",
+    "pairs": "ペア",
+    "addToInquiry": "問い合わせに追加",
+    "viewAll": "すべて表示",
+    "exploreMore": "詳しく見る",
+    "back": "戻る",
+    "submit": "送信",
+    "sending": "送信中…",
+    "remove": "削除",
+    "clearAll": "すべて削除",
+    "filters": "フィルター",
+    "browseCatalogue": "カタログを見る",
+    "loading": "読み込み中…",
+    "submitted": "送信完了",
+    "thankYou": "ありがとうございます",
+    "noteOptional": "メモ (任意)",
+    "neverShare": "お客様の情報を第三者と共有することはありません。",
+    "replies24h": "24時間以内に返信"
+  },
+  "tags": {
+    "bestseller": "ベストセラー",
+    "newArrival": "新着",
+    "oem": "OEM/ODM"
+  },
+  "material": {
+    "925-silver": "925 シルバー",
+    "brass-gold": "真鍮 · ゴールドメッキ",
+    "brass-silver": "真鍮 · シルバーメッキ",
+    "copper": "銅",
+    "alloy": "合金",
+    "titanium-gold": "チタンスチール · ゴールド",
+    "stainless": "ステンレススチール",
+    "mixed": "ミックス素材"
+  },
+  "decoration": {
+    "pearl": "パール",
+    "cz": "ジルコニア / CZ",
+    "shell": "マザーオブパール",
+    "enamel": "エナメル",
+    "opal": "キャッツアイ / オパール",
+    "crystal": "クリスタル",
+    "resin": "レジン",
+    "rose-gold-plate": "ローズゴールドアクセント"
+  },
+  "category": {
+    "stud": "スタッドピアス",
+    "drop": "ドロップピアス",
+    "hoop": "フープピアス",
+    "necklace": "ネックレス",
+    "brooch": "ブローチ",
+    "set": "セット",
+    "ring": "リング",
+    "bracelet": "ブレスレット",
+    "earring": "イヤリング",
+    "pendant": "ペンダント"
+  },
+  "trustBar": {
+    "dailyOutput": "日産能力",
+    "dailyOutputSub": "1,500ダース / 日",
+    "certified": "品質認証",
+    "certifiedSub": "SGS · NGTC · REACH · ISO9001",
+    "lowMoq": "MOQ 120ペアから",
+    "lowMoqSub": "スタイル毎240個",
+    "brandOem": "ブランドOEM",
+    "brandOemSub": "Miniso · Disney · Sanfu",
+    "globalExport": "グローバル輸出",
+    "globalExportSub": "米·英·伊·仏·中東·印·日"
+  },
+  "hero": {
+    "stat": {
+      "since": "創業",
+      "sinceVal": "2008",
+      "styles": "スタイル",
+      "stylesVal": "20K+",
+      "countries": "国",
+      "countriesVal": "7+",
+      "minOrder": "MOQ",
+      "minOrderVal": "120ペア"
+    }
+  },
+  "home": {
+    "collections": {
+      "eyebrow": "おすすめコレクション",
+      "title": "おすすめコレクション",
+      "more": "すべてのコレクション"
+    },
+    "bestsellers": {
+      "eyebrow": "ベストセラー",
+      "title": "今月のベストセラー",
+      "more": "ベストセラーをすべて見る"
+    },
+    "newArrivals": {
+      "eyebrow": "新着商品",
+      "title": "ちょうど入荷",
+      "more": "新着をすべて見る"
+    },
+    "cta": {
+      "eyebrow": "発注を開始",
+      "title": "卸売注文を始めましょう",
+      "body": "無料サンプルセットのリクエスト、最新カタログのダウンロード、または輸出チームへの直接お問い合わせ。24時間以内に返信。",
+      "sample": "無料サンプルを依頼",
+      "catalogue": "カタログをダウンロード"
+    }
+  },
+  "product": {
+    "moqLine": "MOQ {pairs}ペア · {material}",
+    "specs": {
+      "sku": "SKU",
+      "category": "カテゴリ",
+      "material": "素材",
+      "plating": "メッキ",
+      "style": "スタイル",
+      "dimensions": "サイズ",
+      "weight": "重量",
+      "leadTime": "納期",
+      "stock": "在庫",
+      "moq": "MOQ",
+      "pack": "梱包",
+      "leadTimeDays": "{min}–{max} 営業日",
+      "stockReady": "在庫あり · 现货",
+      "stockMto": "受注生産 · 定制",
+      "moqValue": "{pairs}ペア ({pcs}個) · スタイル毎",
+      "packValue": "{pack}個 / 内装"
+    },
+    "panel": {
+      "orderQty": "注文数量",
+      "qtyHint": "= {pairs}ペア · {step}個単位",
+      "oemPrompt": "OEMカスタマイズについて相談したい",
+      "oemSub": "ロゴ / パッケージ / 専用デザイン",
+      "noteHint": "色の希望、パッケージ、目標価格…",
+      "addBtn": "+ 問い合わせに追加",
+      "customBtn": "このデザインをカスタム",
+      "tip": "💡 複数のSKUを問い合わせに追加して一括見積を依頼できます。24時間以内に返信。"
+    },
+    "tabs": {
+      "overview": "概要",
+      "specs": "仕様",
+      "packing": "梱包と発送",
+      "innerPack": "内装",
+      "carton": "カートン",
+      "leadTime": "納期",
+      "shipping": "発送",
+      "customPack": "カスタム梱包",
+      "innerPackVal": "{pack}個 / ポリ袋",
+      "cartonVal": "標準輸出カートン、お客様要望に応じて数量調整",
+      "leadTimeVal": "ご注文確定後 {min}–{max} 営業日",
+      "shippingVal": "DHL · FedEx · UPS · 海上LCL · お客様指定フォワーダー",
+      "customPackVal": "対応可能 — OEMページ参照"
+    },
+    "related": {
+      "eyebrow": "こちらもおすすめ",
+      "title": "関連スタイル",
+      "viewAll": "すべて見る"
+    }
+  },
+  "filter": {
+    "category": "カテゴリ",
+    "categoryEn": "Category",
+    "material": "素材",
+    "materialEn": "Material",
+    "plating": "メッキ",
+    "platingEn": "Plating",
+    "style": "スタイル",
+    "styleEn": "Style",
+    "collection": "コレクション",
+    "collectionEn": "Collection"
+  },
+  "sort": {
+    "label": "並び順",
+    "best": "おすすめ順",
+    "newest": "新着順",
+    "moqAsc": "MOQ 低い順",
+    "stylesFound": "スタイル"
+  },
+  "pagination": {
+    "prev": "← 前へ",
+    "next": "次へ →"
+  },
+  "listing": {
+    "breadcrumb": {
+      "home": "ホーム",
+      "catalogue": "カタログ"
+    },
+    "header": {
+      "all": "卸売カタログ",
+      "allSub": "全カテゴリ",
+      "category": "{label}",
+      "material": "{label} ジュエリー",
+      "collection": "{label}",
+      "plating": "{label}",
+      "style": "{label} スタイル",
+      "search": "検索:「{q}」"
+    },
+    "noResults": "商品が見つかりません",
+    "noResultsSub": "フィルター条件に一致する商品がありません。",
+    "clearFilters": "フィルターをクリア"
+  },
+  "inquiryDrawer": {
+    "title": "問い合わせリスト",
+    "items": "{n} 件",
+    "empty": "問い合わせリストは空です",
+    "emptySub": "カタログを見て商品を追加してください。",
+    "submit": "問い合わせ送信",
+    "footnote": "24時間以内に見積を返信します。"
+  },
+  "inquiryPage": {
+    "eyebrow": "問い合わせリスト",
+    "title": "確認して送信",
+    "items": "{n} 件の見積待ち",
+    "itemsSection": "商品",
+    "totalLine": "合計: {pcs}個 / {skus}SKU",
+    "qty": "数量:",
+    "needOem": "OEMカスタマイズが必要",
+    "noteHint": "メモ (色、梱包、目標価格…)",
+    "form": {
+      "title": "お客様情報",
+      "name": "お名前 *",
+      "company": "会社名",
+      "email": "メールアドレス *",
+      "phone": "電話 / WhatsApp",
+      "country": "国 / 市場 *",
+      "countryHint": "選択…",
+      "additionalNotes": "追加メモ",
+      "additionalHint": "目標価格、納期、特別要件…",
+      "submit": "問い合わせ送信"
+    },
+    "thank": {
+      "eyebrow": "送信完了",
+      "title": "ありがとうございます。",
+      "subtitle": "お問い合わせを受け付けました。",
+      "body": "輸出チームが24時間以内に価格、MOQ、納期を返信いたします。",
+      "continueBtn": "続けて見る",
+      "homeBtn": "ホームへ"
+    },
+    "empty": {
+      "eyebrow": "問い合わせリスト",
+      "title": "リストが空です",
+      "subtitle": "問い合わせリスト空",
+      "body": "カタログを見て見積したい商品を追加してください — 1回の問い合わせで複数SKUの見積依頼が可能です。",
+      "browse": "カタログを見る",
+      "oem": "OEMカスタム"
+    },
+    "errors": {
+      "submitFailed": "送信エラーが発生しました。sales@zhuoheng.com まで直接ご連絡ください"
+    }
+  },
+  "oemPage": {
+    "hero": {
+      "eyebrow": "OEM / ODMカスタム製造",
+      "titleA": "あなたのスタイルで",
+      "titleB": "ジュエリーを製造します。",
+      "titleC": "",
+      "body": "確立されたブランド、新規開店オーナー、Amazon / Shopifyセラー — お客様のデザイン、ロゴ、パッケージで真鍮・銅ジュエリーをエクスクルーシブ製造いたします。",
+      "startBtn": "プロジェクトを開始",
+      "talkBtn": "専門家に相談"
+    },
+    "process": {
+      "eyebrow": "プロセス",
+      "title": "スケッチから出荷まで20日。",
+      "body": "アイデアを数千個の完成品に変える方法をご紹介します。"
+    },
+    "cases": {
+      "eyebrow": "カスタマイズ範囲",
+      "title": "3段階のカスタマイズ。",
+      "body": "シンプルなロゴ刻印から完全エクスクルーシブデザインまで — プロジェクトに合うレベルをお選びください。"
+    },
+    "form": {
+      "eyebrow": "プロジェクトブリーフ送信",
+      "title": "プロジェクトをお聞かせください。",
+      "body": "詳細をいただくほど、より正確な見積が可能です。24時間以内に返信。",
+      "ndaNote": "✓ ご要望に応じてNDA対応\n✓ 既存デザインも歓迎\n✓ 参考画像 / スケッチがあると便利\n✓ すべてのご相談を機密扱い",
+      "name": "お名前 *",
+      "company": "会社名",
+      "email": "メールアドレス *",
+      "phone": "電話 / WhatsApp",
+      "country": "国 / 市場 *",
+      "productTypes": "商品タイプ * (複数選択可)",
+      "estimatedQty": "予定数量 *",
+      "needs": "カスタマイズ要件",
+      "needsLogo": "ロゴ / 刻印",
+      "needsPack": "カスタムパッケージ",
+      "needsDesign": "エクスクルーシブデザイン",
+      "budget": "1ピース予算 (任意)",
+      "budgetHint": "例: USD 1.50 – 3.00",
+      "message": "プロジェクト説明 *",
+      "messageHint": "アイデア、ターゲット顧客、デザイン参考、制約条件などをご説明ください…",
+      "submit": "ブリーフ送信",
+      "thankEyebrow": "受信完了",
+      "thankTitle": "ありがとうございます。",
+      "thankBody": "OEMチームが24時間以内に次のステップと初期価格でご連絡いたします。",
+      "errorMsg": "エラーが発生しました。再試行するか sales@zhuoheng.com までメールください"
+    },
+    "process_steps": {
+      "step1Title": "初期ヒアリング",
+      "step1Body": "商品アイデア、ターゲット市場、MOQ、予算をお聞かせください。NDA対応可。",
+      "step2Title": "デザインと見積",
+      "step2Body": "デザインチームが2D / 3Dレンダリングを作成。素材ベースで見積します。",
+      "step3Title": "サンプル製作",
+      "step3Body": "ご確認用の実物サンプルを製作。オフィスへエクスプレス発送。",
+      "step4Title": "サンプル承認",
+      "step4Body": "ご確認、修正依頼、承認。完璧になるまで調整します。",
+      "step5Title": "本生産",
+      "step5Body": "本生産。鋳造 / メッキ / 仕上げの3段階で品質管理。",
+      "step6Title": "出荷",
+      "step6Body": "ブランドカスタムパッケージ、お客様指定または当社パートナー: DHL / FedEx / 海上輸送。"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "2008年創業 · 17年の職人技",
+      "titleA": "義烏ジュエリー製造",
+      "titleB": "世界に向けた義烏のジュエリーメーカー。",
+      "body": "ZHUOHENGは2008年に創業、17年間の真鍮・銅ジュエリー製造の経験を有しています。3,000㎡の近代的施設からMiniso、Disney、Sanfu、Ling-Li、COBENなどのブランドへ供給。米国・英国・イタリア・フランス・中東・インド・日本へ輸出し、イタリアバイヤーとは18年間の安定した取引関係を維持しています。",
+      "oemBtn": "OEMカスタム",
+      "visitBtn": "工場見学"
+    },
+    "stats": {
+      "since": "創業",
+      "facility": "施設",
+      "artisans": "職人",
+      "skus": "保有SKU"
+    },
+    "capacity": {
+      "title": "生産能力",
+      "titleEn": "Production Capacity"
+    },
+    "quality": {
+      "eyebrow": "品質と職人技",
+      "title": "エコ真鍮 · リアルゴールドメッキ · 12か月変色なし",
+      "body": "鉛フリー認証の真鍮・銅を使用。リアルゴールド電気メッキ、コーティング厚0.03 μm — 通常使用で12か月変色保証。すべての製品が7段階の生産工程と3回の独立品質検査を経ます。"
+    },
+    "clients": {
+      "title": "ブランドクライアント",
+      "subtitle": "これらのブランドのために製造してきました。彼らの品質基準は工場のすべてのラインに組み込まれています。",
+      "italyYears": "イタリアバイヤーとの取引",
+      "exports": "輸出市場",
+      "counters": "直営店",
+      "marketsLine": "市場: 米国 · 英国 · イタリア · フランス · 中東 · インド · 日本"
+    },
+    "visit": {
+      "eyebrow": "見学",
+      "title": "工場見学を歓迎いたします。",
+      "body": "バイヤーやブランドチームの現地見学を受け入れています。設備の見学、QCチームとのミーティング、その場でのサンプル検査が可能です。",
+      "bookBtn": "見学予約",
+      "customBtn": "カスタムプロジェクト開始"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "お問い合わせ",
+    "title": "卸売見積を取得。",
+    "subtitle": "24時間以内に返信",
+    "form": {
+      "eyebrow": "問い合わせ送信",
+      "title": "お探しの商品をお聞かせください。",
+      "body": "フォーム送信後、輸出チームが24時間以内に価格、MOQ、納期、必要に応じてサンプル計画を返信いたします。",
+      "office": "オフィス",
+      "officeLines": "Yiwu Zhuoheng Jewellery Co., Ltd.|中国 義烏|(実際の住所に置換)",
+      "hours": "営業時間",
+      "hoursLines": "月曜日 – 土曜日 · 9:00 – 18:00 (UTC+8)|中国の祝日休業",
+      "languages": "対応言語",
+      "languagesLines": "English · 日本語 · 中文",
+      "name": "お名前 *",
+      "company": "会社名",
+      "email": "メールアドレス *",
+      "phone": "電話 / WhatsApp",
+      "country": "国 / 市場 *",
+      "message": "メッセージ *",
+      "messageHint": "お探しの商品、目標数量、市場、納期をお書きください。",
+      "submit": "問い合わせ送信",
+      "thankEyebrow": "受信完了",
+      "thankTitle": "お問い合わせありがとうございます。",
+      "thankBody": "輸出チームが24時間以内に返信いたします。",
+      "errorMsg": "エラーが発生しました。sales@zhuoheng.com まで直接ご連絡ください"
+    },
+    "channels": {
+      "email": "メール",
+      "emailSub": "24時間以内に返信",
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "月–土 · 9:00 – 18:00 (UTC+8)",
+      "wechat": "WeChat",
+      "wechatSub": "ID: zhuoheng_sales · リアルタイムチャット"
+    },
+    "map": {
+      "title": "工場所在地",
+      "company": "ZHUOHENG 工場",
+      "city": "中国 義烏",
+      "note": "地図統合は近日対応 — 当面はメールまたはWhatsAppでご予約ください。"
+    }
+  },
+  "comingSoon": {
+    "eyebrow": "準備中",
+    "body": "このページは準備中です。その間、直接お問い合わせください。",
+    "homeBtn": "ホームへ",
+    "oemBtn": "OEMカスタム"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "ページが見つかりません",
+    "subtitle": "Page Not Found",
+    "body": "お探しのページは存在しないか、移動された可能性があります。",
+    "homeBtn": "ホームへ",
+    "oemBtn": "OEMカスタム"
+  },
+  "legal": {
+    "lastUpdated": "最終更新: {date}",
+    "contactNote": "お問い合わせは sales@zhuoheng.com まで",
+    "privacyTitle": "プライバシーポリシー",
+    "privacyIntro": "ZHUOHENG（「当社」）はお客様の個人情報を尊重します。本ポリシーは zhuoheng.com 利用時の情報の収集・利用・保存・保護方法を説明します。",
+    "privacyBody": "1. 収集する情報\nお客様提供: 氏名、会社名、メールアドレス、電話番号、国、お問い合わせ内容、カスタム要件。\n自動収集: 訪問者IP、ブラウザの種類、アクセス時刻、閲覧ページ、リファラURL（分析および不正利用防止のため）。\n\n2. 利用目的\n以下の目的にのみ使用: (a) お問い合わせ・見積もり対応; (b) お客様との関係維持および注文フォロー; (c) サイトおよび製品の改善; (d) 詐欺・濫用の防止。\n\n3. 共有\n個人情報を販売することは決してありません。共有先は: メール配信プロバイダ（返信送信用）、決済処理業者（注文時のみ）、法令遵守上の要求があった場合のみ。\n\n4. 保管期間\nお問い合わせデータは3年間保管します。ご要望時は30日以内に完全削除します。\n\n5. お客様の権利\nデータへのアクセス、修正、削除、移転、同意撤回が可能です。sales@zhuoheng.com までメールをお送りください。\n\n6. クッキー\n言語/通貨設定およびお問い合わせリストを記憶する必須クッキーを使用します。Cookie Policy をご参照ください。\n\n7. セキュリティ\n全サイトHTTPS化、フォームへのrate limit および入力検証、従業員アクセス最小化を実施。ただしインターネット送信は100%安全ではないため、機密情報のお取り扱いはご注意ください。\n\n8. 国際転送\nサーバーはアジア太平洋または欧州にあります。他地域からアクセスされる場合、データはこれらの地域に転送されます。\n\n9. 更新\n本ポリシーは更新される場合があり、重要な変更はサイト上で明示的に通知します。",
+    "termsTitle": "利用規約",
+    "termsIntro": "zhuoheng.com にアクセス・利用された時点で、本規約に同意したものとみなされます。",
+    "termsBody": "1. サイトの性質\n本サイトはZHUOHENGの製品展示およびお問い合わせプラットフォームです。表示される仕様は参考用であり、正式な価格はメールで確定します。\n\n2. お問い合わせ手続き\nお問い合わせの送信は注文を構成しません。注文は両者の書面確認（メール、契約書またはPI）が必要です。\n\n3. 知的財産権\nサイトのコンテンツ、製品写真、ロゴはZHUOHENGに帰属し、書面による許可なしの商業利用は禁止します。\n\n4. ユーザー行為\n悪意あるコードのアップロード、虚偽のお問い合わせ、競合目的でのサイトスクレイピング、サービスへの攻撃・濫用は禁止します。\n\n5. 責任の制限\n法令の許す最大範囲において、ZHUOHENGはサイト利用に起因する間接損害について責任を負いません。\n\n6. 紛争\n本規約は中華人民共和国法に準拠し、紛争は義烏市人民法院の管轄とします。",
+    "cookiesTitle": "クッキーポリシー",
+    "cookiesIntro": "閲覧体験向上のためクッキーを使用しています。",
+    "cookiesBody": "必須クッキー\n言語、通貨、お問い合わせリスト記憶用。無効化できません。\n\n分析クッキー（現在未使用）\n将来サードパーティ分析（例: Google Analytics）を追加する可能性があり、その際は事前に同意を求めます。\n\n管理\nブラウザ設定でクッキーを削除可能です。ただし削除すると言語設定とお問い合わせリストが失われます。"
+  },
+  "cookieBanner": {
+    "title": "クッキー使用について",
+    "body": "本サイトは言語設定とお問い合わせリストを記憶するため、必須クッキーを使用します。閲覧を続けることで同意とみなされます。",
+    "accept": "同意する",
+    "details": "ポリシーを見る"
+  },
+  "footer": {
+    "tagline": "真鍮・銅ジュエリーメーカー。20,000以上のスタイル、工場直送価格、グローバル発送。2008年創業 · 中国 義烏。",
+    "shop": "ショップ",
+    "newArrivals": "新着商品",
+    "earrings": "イヤリング",
+    "brass": "真鍮ジュエリー",
+    "copper": "銅ジュエリー",
+    "byCollection": "コレクション別",
+    "customOem": "OEM/ODMカスタム",
+    "service": "カスタマーサービス",
+    "submitInquiry": "問い合わせ送信",
+    "requestSample": "サンプル依頼",
+    "pricingMoq": "価格とMOQ",
+    "paymentTerms": "支払条件",
+    "shippingInfo": "発送情報",
+    "faq": "よくある質問",
+    "hotline": "お問い合わせ電話",
+    "hoursTitle": "営業時間",
+    "hoursVal": "9:00 – 18:00\n月 – 土\n祝日除く",
+    "newsletter": "ニュースレター",
+    "emailPlaceholder": "メールアドレス",
+    "subscribe": "登録",
+    "copyright": "© {year} Yiwu Zhuoheng Jewellery Co., Ltd. 全権利保留。",
+    "terms": "利用規約",
+    "termsOfUse": "利用条件",
+    "privacy": "プライバシーポリシー",
+    "official": "公式声明",
+    "sitemap": "サイトマップ",
+    "cookies": "クッキーポリシー"
+  }
+}

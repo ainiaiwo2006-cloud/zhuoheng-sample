@@ -1,0 +1,487 @@
+{
+  "topbar": {
+    "promo": "母亲节限定礼遇 · 首单免费样品 · BV / SGS 认证 · 发货 80+ 国家"
+  },
+  "nav": {
+    "newArrivals": "新品到货",
+    "earrings": "耳饰",
+    "stud": "耳钉",
+    "drop": "耳坠",
+    "hoop": "耳环",
+    "necklace": "项链",
+    "brooch": "胸针",
+    "set": "套装",
+    "ring": "戒指",
+    "bracelet": "手链",
+    "comingSoon": "敬请期待",
+    "brass": "铜镀金",
+    "copper": "紫铜",
+    "silver": "925 银",
+    "customOem": "OEM 定制",
+    "collections": "精选系列",
+    "about": "关于我们",
+    "contact": "联系我们",
+    "search": "搜索",
+    "account": "账号",
+    "stores": "门店",
+    "wishlist": "收藏",
+    "inquiry": "询盘"
+  },
+  "common": {
+    "language": "语言",
+    "currency": "货币",
+    "moq": "起订量",
+    "moqShort": "MOQ",
+    "pcs": "件",
+    "pairs": "对",
+    "addToInquiry": "加入询盘",
+    "viewAll": "查看全部",
+    "exploreMore": "了解更多",
+    "back": "返回",
+    "submit": "提交",
+    "sending": "提交中…",
+    "remove": "移除",
+    "clearAll": "全部清除",
+    "filters": "已选筛选",
+    "browseCatalogue": "浏览目录",
+    "loading": "加载中…",
+    "submitted": "已提交",
+    "thankYou": "感谢您",
+    "noteOptional": "备注（选填）",
+    "neverShare": "我们不会向第三方共享您的信息。",
+    "replies24h": "24 小时内回复"
+  },
+  "tags": {
+    "bestseller": "热销",
+    "newArrival": "新品",
+    "oem": "OEM/ODM"
+  },
+  "material": {
+    "925-silver": "925 银",
+    "brass-gold": "铜镀金",
+    "brass-silver": "铜镀银",
+    "copper": "紫铜",
+    "alloy": "合金",
+    "titanium-gold": "钛钢镀金",
+    "stainless": "不锈钢",
+    "mixed": "混合材质"
+  },
+  "decoration": {
+    "pearl": "珍珠",
+    "cz": "锆石",
+    "shell": "贝母",
+    "enamel": "珐琅",
+    "opal": "猫眼石",
+    "crystal": "水晶",
+    "resin": "树脂",
+    "rose-gold-plate": "镀玫瑰金"
+  },
+  "category": {
+    "stud": "耳钉",
+    "drop": "耳坠",
+    "hoop": "耳环",
+    "necklace": "项链",
+    "brooch": "胸针",
+    "set": "套装",
+    "ring": "戒指",
+    "bracelet": "手链",
+    "earring": "耳饰",
+    "pendant": "吊坠"
+  },
+  "trustBar": {
+    "dailyOutput": "日产能",
+    "dailyOutputSub": "1,500 打 / 天",
+    "certified": "品质认证",
+    "certifiedSub": "SGS · NGTC · REACH · ISO9001",
+    "lowMoq": "起订 120 对",
+    "lowMoqSub": "240 件 / 款",
+    "brandOem": "品牌代工",
+    "brandOemSub": "名创 · 迪士尼 · 三福",
+    "globalExport": "全球出口",
+    "globalExportSub": "美 · 英 · 意 · 法 · 中东 · 印 · 日"
+  },
+  "hero": {
+    "stat": {
+      "since": "成立",
+      "sinceVal": "2008",
+      "styles": "款式",
+      "stylesVal": "20K+",
+      "countries": "出口",
+      "countriesVal": "7+ 国",
+      "minOrder": "起订",
+      "minOrderVal": "120 对"
+    }
+  },
+  "home": {
+    "collections": {
+      "eyebrow": "FEATURED COLLECTIONS",
+      "title": "精选系列",
+      "more": "查看全部系列"
+    },
+    "bestsellers": {
+      "eyebrow": "BESTSELLERS",
+      "title": "本月热销",
+      "more": "查看全部热销"
+    },
+    "newArrivals": {
+      "eyebrow": "NEW ARRIVALS",
+      "title": "最新到货",
+      "more": "查看全部新品"
+    },
+    "cta": {
+      "eyebrow": "START YOUR ORDER",
+      "title": "开启您的批发订单",
+      "body": "申请免费样品包、下载最新产品目录，或直接联系外贸团队。24 小时内回复。",
+      "sample": "申请免费样品",
+      "catalogue": "下载产品目录"
+    }
+  },
+  "product": {
+    "moqLine": "MOQ {pairs} 对 · {material}",
+    "specs": {
+      "sku": "SKU",
+      "category": "品类",
+      "material": "材质",
+      "plating": "电镀",
+      "style": "风格",
+      "dimensions": "尺寸",
+      "weight": "重量",
+      "leadTime": "交货期",
+      "stock": "库存",
+      "moq": "起订",
+      "pack": "包装",
+      "leadTimeDays": "{min}–{max} 个工作日",
+      "stockReady": "现货 · Ready stock",
+      "stockMto": "定制 · Made to order",
+      "moqValue": "{pairs} 对（{pcs} 件）· 每款",
+      "packValue": "{pack} 件 / 内包装"
+    },
+    "panel": {
+      "orderQty": "订购数量",
+      "qtyHint": "= {pairs} 对 · 步进 {step} 件",
+      "oemPrompt": "我希望讨论 OEM 定制",
+      "oemSub": "Logo / 包装 / 专属设计",
+      "noteHint": "颜色偏好、包装、目标价…",
+      "addBtn": "+ 加入询盘",
+      "customBtn": "定制此款",
+      "tip": "💡 可加入多款产品到询盘清单，统一提交报价请求。我们 24 小时内回复。"
+    },
+    "tabs": {
+      "overview": "概述",
+      "specs": "规格",
+      "packing": "包装与发货",
+      "innerPack": "内包装",
+      "carton": "出口纸箱",
+      "leadTime": "交货期",
+      "shipping": "运输方式",
+      "customPack": "定制包装",
+      "innerPackVal": "{pack} 件 / 自封袋",
+      "cartonVal": "标准出口纸箱，按客户要求装箱",
+      "leadTimeVal": "确认订单后 {min}–{max} 个工作日",
+      "shippingVal": "DHL · FedEx · UPS · 海运 LCL · 客户指定货代",
+      "customPackVal": "支持定制 — 详见 OEM 页"
+    },
+    "related": {
+      "eyebrow": "您可能也喜欢",
+      "title": "相关款式",
+      "viewAll": "查看全部"
+    }
+  },
+  "filter": {
+    "category": "品类",
+    "categoryEn": "Category",
+    "material": "材质",
+    "materialEn": "Material",
+    "plating": "电镀",
+    "platingEn": "Plating",
+    "style": "风格",
+    "styleEn": "Style",
+    "collection": "系列",
+    "collectionEn": "Collection"
+  },
+  "sort": {
+    "label": "排序",
+    "best": "综合排序",
+    "newest": "最新优先",
+    "moqAsc": "起订量 低 → 高",
+    "stylesFound": "款产品"
+  },
+  "pagination": {
+    "prev": "上一页",
+    "next": "下一页"
+  },
+  "listing": {
+    "breadcrumb": {
+      "home": "首页",
+      "catalogue": "目录"
+    },
+    "header": {
+      "all": "产品目录",
+      "allSub": "全品类批发",
+      "category": "{label}",
+      "material": "{label} 系列产品",
+      "collection": "{label}",
+      "plating": "{label} 电镀",
+      "style": "{label} 风格",
+      "search": "搜索：「{q}」"
+    },
+    "noResults": "未找到产品",
+    "noResultsSub": "暂无匹配的产品。",
+    "clearFilters": "清除所有筛选"
+  },
+  "inquiryDrawer": {
+    "title": "询盘清单",
+    "items": "{n} 件商品",
+    "empty": "您的询盘清单为空",
+    "emptySub": "浏览目录并加入心仪的款式。",
+    "submit": "提交询盘",
+    "footnote": "我们将在 24 小时内回复报价。"
+  },
+  "inquiryPage": {
+    "eyebrow": "询盘清单",
+    "title": "查看并提交",
+    "items": "{n} 件待报价",
+    "itemsSection": "已选商品",
+    "totalLine": "合计：{pcs} 件 · {skus} 款",
+    "qty": "数量：",
+    "needOem": "需要 OEM 定制",
+    "noteHint": "备注（颜色、包装、目标价…）",
+    "form": {
+      "title": "您的信息",
+      "name": "姓名 *",
+      "company": "公司名称",
+      "email": "邮箱 *",
+      "phone": "电话 / WhatsApp",
+      "country": "国家 / 市场 *",
+      "countryHint": "请选择…",
+      "additionalNotes": "补充说明",
+      "additionalHint": "目标价、交期、特殊要求…",
+      "submit": "提交询盘"
+    },
+    "thank": {
+      "eyebrow": "已提交",
+      "title": "感谢您",
+      "subtitle": "询盘已收到。",
+      "body": "外贸团队将在 24 小时内回复报价、起订量与交期。",
+      "continueBtn": "继续浏览",
+      "homeBtn": "返回首页"
+    },
+    "empty": {
+      "eyebrow": "询盘清单",
+      "title": "您的清单为空",
+      "subtitle": "您的询盘清单为空",
+      "body": "浏览目录并加入您想采购的款式 — 一次询盘可包含任意数量的 SKU。",
+      "browse": "浏览目录",
+      "oem": "OEM 定制"
+    },
+    "errors": {
+      "submitFailed": "提交失败，请直接邮件 sales@zhuoheng.com"
+    }
+  },
+  "oemPage": {
+    "hero": {
+      "eyebrow": "OEM / ODM 定制",
+      "titleA": "我们按",
+      "titleB": "您的方式",
+      "titleC": "制作饰品。",
+      "body": "无论您是品牌商、店主、亚马逊或独立站卖家，我们都能为您定制黄铜与紫铜饰品 — 您的设计、您的 Logo、您的包装。",
+      "startBtn": "开启项目",
+      "talkBtn": "联系顾问"
+    },
+    "process": {
+      "eyebrow": "工艺流程",
+      "title": "从草图到出货 · 20 天搞定。",
+      "body": "下面是我们如何把一个想法变成成千上万件成品的全流程。"
+    },
+    "cases": {
+      "eyebrow": "定制服务",
+      "title": "三档定制服务。",
+      "body": "从 Logo 印记到完整专属设计 — 选择适合您项目的层级。"
+    },
+    "form": {
+      "eyebrow": "项目咨询",
+      "title": "告诉我们您的项目。",
+      "body": "尽可能填写详细信息 — 我们越了解，报价越精准。24 小时内回复。",
+      "ndaNote": "✓ 可签订保密协议\n✓ 接受现有设计\n✓ 参考图 / 草图有助于我们理解\n✓ 所有咨询保密处理",
+      "name": "姓名 *",
+      "company": "公司名称",
+      "email": "邮箱 *",
+      "phone": "电话 / WhatsApp",
+      "country": "国家 / 市场 *",
+      "productTypes": "产品类型 *（可多选）",
+      "estimatedQty": "预估数量 *",
+      "needs": "定制需求",
+      "needsLogo": "Logo / 印记",
+      "needsPack": "定制包装",
+      "needsDesign": "专属设计",
+      "budget": "目标单价（选填）",
+      "budgetHint": "如：USD 1.50 – 3.00",
+      "message": "项目描述 *",
+      "messageHint": "描述您的想法、目标客户、设计参考、约束等…",
+      "submit": "提交项目咨询",
+      "thankEyebrow": "已收到",
+      "thankTitle": "感谢您。",
+      "thankBody": "OEM 团队将在 24 小时内联系您，告知后续步骤与初步报价。",
+      "errorMsg": "提交失败，请重试或邮件 sales@zhuoheng.com"
+    },
+    "process_steps": {
+      "step1Title": "初步沟通",
+      "step1Body": "告诉我们您的产品想法、目标市场、起订量与预算。可签 NDA。",
+      "step2Title": "设计与报价",
+      "step2Body": "设计团队提供 2D / 3D 渲染。根据材料给出单价报价。",
+      "step3Title": "样品制作",
+      "step3Body": "制作实物样品供您确认。快递寄送至您办公室。",
+      "step4Title": "样品确认",
+      "step4Body": "您检视、提出修改、确认。我们持续优化直至完美。",
+      "step5Title": "批量生产",
+      "step5Body": "全量生产。三阶段品控：铸造 / 电镀 / 表面处理。",
+      "step6Title": "全球发货",
+      "step6Body": "定制品牌包装，由您指定货代或我们合作物流：DHL / FedEx / 海运。"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "成立于 2008 · 17 年制造经验",
+      "titleA": "义乌工厂 · 专注饰品制造",
+      "titleB": "为全球品牌制造的义乌饰品工厂。",
+      "body": "卓恒成立于 2008 年，深耕黄铜与紫铜饰品制造 17 年。从 3,000 平方米的现代化工厂出发，为名创优品、迪士尼、三福、伶俐、COBEN 等品牌供货，产品远销美、英、意、法、中东、印度、日本等地，与意大利客户保持 18 年稳定合作。",
+      "oemBtn": "OEM 定制",
+      "visitBtn": "工厂参观"
+    },
+    "stats": {
+      "since": "成立年份",
+      "facility": "标准化厂房",
+      "artisans": "成熟工人",
+      "skus": "在售款式"
+    },
+    "capacity": {
+      "title": "生产能力",
+      "titleEn": "Production Capacity"
+    },
+    "quality": {
+      "eyebrow": "品质与工艺",
+      "title": "环保铜材 · 真金电镀 · 12 个月不变色",
+      "body": "无铅环保黄铜与紫铜。真金电镀工艺，0.03 微米均匀镀层 — 正常佩戴下保证 12 个月不变色。每一件均经 7 道生产工序与 3 道独立质检。"
+    },
+    "clients": {
+      "title": "品牌代工",
+      "subtitle": "我们曾为这些品牌制造，他们的品质标准已融入工厂的每条产线。",
+      "italyYears": "意大利客户合作",
+      "exports": "出口市场",
+      "counters": "自营线下档口",
+      "marketsLine": "出口至：美 · 英 · 意 · 法 · 中东 · 印度 · 日本"
+    },
+    "visit": {
+      "eyebrow": "工厂参观",
+      "title": "欢迎莅临工厂参观。",
+      "body": "我们接待买家与品牌团队的实地参观。亲眼看设备、与品控团队见面、现场检查样品。",
+      "bookBtn": "预约参观",
+      "customBtn": "开启定制项目"
+    }
+  },
+  "contactPage": {
+    "eyebrow": "联系我们",
+    "title": "获取批发报价",
+    "subtitle": "24 小时内回复",
+    "form": {
+      "eyebrow": "在线咨询",
+      "title": "告诉我们您要采购什么。",
+      "body": "填写表单，外贸团队将在 24 小时内回复报价、起订量、交货期，必要时安排样品。",
+      "office": "办公地址",
+      "officeLines": "卓恒（义乌）饰品有限公司|义乌市福田街道 XX 路 XX 号|（请替换为实际地址）",
+      "hours": "工作时间",
+      "hoursLines": "周一至周六 · 9:00 – 18:00（UTC+8）|公众假期休息",
+      "languages": "支持语言",
+      "languagesLines": "English · 中文",
+      "name": "姓名 *",
+      "company": "公司名称",
+      "email": "邮箱 *",
+      "phone": "电话 / WhatsApp",
+      "country": "国家 / 市场 *",
+      "message": "留言 *",
+      "messageHint": "请描述您要采购的产品、目标数量、市场和交期。",
+      "submit": "发送询问",
+      "thankEyebrow": "已收到",
+      "thankTitle": "感谢您的咨询。",
+      "thankBody": "外贸团队将在 24 小时内回复您。",
+      "errorMsg": "提交失败，请直接邮件 sales@zhuoheng.com"
+    },
+    "channels": {
+      "email": "邮箱",
+      "emailSub": "24 小时内回复",
+      "whatsapp": "WhatsApp",
+      "whatsappSub": "周一至周六 · 9:00 – 18:00（UTC+8）",
+      "wechat": "微信",
+      "wechatSub": "ID: zhuoheng_sales · 即时沟通"
+    },
+    "map": {
+      "title": "工厂位置",
+      "company": "卓恒工厂",
+      "city": "义乌市福田街道",
+      "note": "地图集成将在第三批接入 — 当前请通过邮件或 WhatsApp 预约。"
+    }
+  },
+  "comingSoon": {
+    "eyebrow": "敬请期待",
+    "body": "本页面正在准备中。如需即时咨询，请直接联系我们。",
+    "homeBtn": "返回首页",
+    "oemBtn": "OEM 定制"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "页面未找到",
+    "subtitle": "Page Not Found",
+    "body": "您访问的页面不存在或已被移除。",
+    "homeBtn": "返回首页",
+    "oemBtn": "OEM 定制"
+  },
+  "legal": {
+    "lastUpdated": "最近更新：{date}",
+    "contactNote": "如有疑问请发邮件至 sales@zhuoheng.com",
+    "privacyTitle": "隐私政策",
+    "privacyIntro": "卓恒（以下简称\"我们\"）尊重您的隐私。本政策说明我们在您使用 zhuoheng.com 时收集、使用、存储和保护您信息的方式。",
+    "privacyBody": "1. 我们收集的信息\n您主动提供：姓名、公司、邮箱、电话、所在国家、询盘内容、定制需求。\n网站自动收集：访问 IP、浏览器类型、访问时间、所访问页面、来源链接（用于网站分析与防滥用）。\n\n2. 信息用途\n我们仅将信息用于：(a) 回复您的询盘与报价；(b) 维护客户关系并跟进订单；(c) 改进网站与产品；(d) 防止欺诈与滥用。\n\n3. 信息共享\n我们绝不出售您的个人信息。仅在以下情况共享：邮件服务商（用于发送回复邮件）、支付服务商（订单付款时）、法律强制要求。\n\n4. 数据保留\n询盘数据保留 3 年用于商务跟进。如您要求删除，我们将在 30 天内永久删除。\n\n5. 您的权利\n您有权访问、更正、删除我们持有的关于您的数据，撤回同意，导出数据。请发邮件至 sales@zhuoheng.com 行使权利。\n\n6. Cookie 使用\n我们使用必要 Cookie 维持您的语言/币种偏好与询盘清单。详见 Cookie 政策。\n\n7. 安全措施\n全站 HTTPS 加密传输；询盘表单加 rate limit 与输入验证；员工访问最小化。但互联网传输不可能 100% 安全，请谨慎共享敏感信息。\n\n8. 跨境传输\n我们的服务器位于亚太或欧洲。当您从其他地区访问，您的数据将传输到这些地区接受处理。\n\n9. 政策更新\n本政策可能更新。重大变更将在网站显著位置通知。",
+    "termsTitle": "服务条款",
+    "termsIntro": "访问与使用 zhuoheng.com 即表示您同意以下条款。",
+    "termsBody": "1. 网站性质\n本网站为卓恒的产品展示与询盘平台。所有展示规格仅供参考，正式报价以邮件确认为准。\n\n2. 询盘流程\n提交询盘不构成订单。订单需双方书面确认（邮件、合同或 PI）。\n\n3. 知识产权\n网站内容、产品图、Logo 均为卓恒财产，未经书面许可不得用于商业目的。OEM 客户专属设计的版权按合同约定归属。\n\n4. 用户行为\n您不得：上传恶意代码、提交虚假询盘、爬取网站数据用于竞争目的、对网站进行任何攻击或滥用行为。\n\n5. 责任限制\n在法律允许的最大范围内，卓恒不对因使用本网站造成的间接损失承担责任。\n\n6. 争议解决\n本条款适用中华人民共和国法律。争议由义乌市人民法院管辖。",
+    "cookiesTitle": "Cookie 政策",
+    "cookiesIntro": "我们使用 Cookie 提升您的浏览体验。",
+    "cookiesBody": "必要 Cookie\n用于保存语言偏好、币种选择与询盘清单。这类 Cookie 不可关闭。\n\n分析 Cookie（暂未启用）\n未来可能加入第三方分析（如 Google Analytics）了解访问情况。启用前会再次征求您的同意。\n\n如何管理\n您可通过浏览器设置删除 Cookie。注意：删除后您的语言偏好与询盘清单会丢失。"
+  },
+  "cookieBanner": {
+    "title": "我们使用 Cookie",
+    "body": "本网站使用必要 Cookie 保持您的语言偏好与询盘清单。继续浏览即表示您同意。",
+    "accept": "接受",
+    "details": "查看政策"
+  },
+  "footer": {
+    "tagline": "黄铜与紫铜饰品制造商。20,000+ 款式，工厂直供，全球发货。成立于 2008 年 · 中国义乌。",
+    "shop": "选购",
+    "newArrivals": "新品到货",
+    "earrings": "耳饰",
+    "brass": "黄铜饰品",
+    "copper": "紫铜饰品",
+    "byCollection": "按系列",
+    "customOem": "OEM/ODM 定制",
+    "service": "客户服务",
+    "submitInquiry": "提交询盘",
+    "requestSample": "申请样品",
+    "pricingMoq": "价格与起订",
+    "paymentTerms": "付款方式",
+    "shippingInfo": "物流说明",
+    "faq": "常见问题",
+    "hotline": "客服热线",
+    "hoursTitle": "服务时间",
+    "hoursVal": "9:00 – 18:00\n周一至周六\n公众假期除外",
+    "newsletter": "订阅资讯",
+    "emailPlaceholder": "邮箱",
+    "subscribe": "订阅",
+    "copyright": "© {year} 卓恒（义乌）饰品有限公司 · 版权所有",
+    "terms": "条款",
+    "termsOfUse": "使用条款",
+    "privacy": "隐私政策",
+    "official": "官方声明",
+    "sitemap": "网站地图",
+    "cookies": "Cookie 政策"
+  }
+}
