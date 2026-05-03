@@ -4,8 +4,6 @@ const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // Standalone output is required for the Dockerfile to copy a self-contained build.
-  output: "standalone",
   // Future-ready for self-hosted image optimization with remote patterns.
   images: {
     formats: ["image/avif", "image/webp"],
