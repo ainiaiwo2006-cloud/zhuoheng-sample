@@ -1,4 +1,5 @@
 import createNextIntlPlugin from "next-intl/plugin";
+import webpack from "webpack";
 const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
 
 /** @type {import('next').NextConfig} */
@@ -8,14 +9,23 @@ const nextConfig = {
   images: {
     formats: ["image/avif", "image/webp"],
     remotePatterns: [
-      // Unsplash for free CC0 demo photos
       { protocol: "https", hostname: "images.unsplash.com" },
       { protocol: "https", hostname: "plus.unsplash.com" },
-      // Local demo placeholder service (handy if user drops photos in /public/demo-images)
-      // (no remotePattern needed for /public files)
-      // Future: your own CDN
-      // { protocol: "https", hostname: "cdn.zhuoheng.com" },
     ],
+  },
+  webpack: (config, { nextRuntime }) => {
+    // Stub __dirname for Edge runtime — next-intl's extractor module
+    // generates unreachable code that references __dirname; without this
+    // stub the middleware crashes at runtime on Vercel Edge.
+    if (nextRuntime === "edge") {
+      config.plugins.push(
+        new webpack.DefinePlugin({
+          __dirname: '""',
+          __filename: '""',
+        })
+      );
+    }
+    return config;
   },
 };
 
