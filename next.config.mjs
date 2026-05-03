@@ -1,5 +1,4 @@
 import createNextIntlPlugin from "next-intl/plugin";
-import webpack from "webpack";
 const withNextIntl = createNextIntlPlugin("./i18n/request.ts");
 
 /** @type {import('next').NextConfig} */
@@ -13,11 +12,11 @@ const nextConfig = {
       { protocol: "https", hostname: "plus.unsplash.com" },
     ],
   },
-  webpack: (config, { nextRuntime }) => {
-    // Stub __dirname for Edge runtime — next-intl's extractor module
-    // generates unreachable code that references __dirname; without this
-    // stub the middleware crashes at runtime on Vercel Edge.
+  webpack: (config, { nextRuntime, webpack }) => {
     if (nextRuntime === "edge") {
+      // Stub __dirname/__filename — next-intl's extractor module
+      // generates unreachable code that references them; Edge runtime
+      // doesn't define them so the module crashes when parsed.
       config.plugins.push(
         new webpack.DefinePlugin({
           __dirname: '""',
