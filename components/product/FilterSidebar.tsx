@@ -76,23 +76,6 @@ export function FilterSidebar({ counts }: { counts: Counts }) {
         ))}
       </FilterGroup>
 
-      <FilterGroup title={t("style")} titleEn={t("styleEn")}>
-        {STYLES.map((s) => (
-          <FilterRow key={s.code} label={lbl(s.zh, s.en)} sub={sub(s.zh, s.en)}
-            count={counts.style?.[s.code]}
-            checked={active.style === s.code}
-            onClick={() => setParam("style", s.code)} />
-        ))}
-      </FilterGroup>
-
-      <FilterGroup title={t("collection")} titleEn={t("collectionEn")}>
-        {COLLECTIONS.map((c) => (
-          <FilterRow key={c.code} label={lbl(c.zh, c.en)} sub={sub(c.zh, c.en)}
-            count={counts.collection?.[c.code]}
-            checked={active.collection === c.code}
-            onClick={() => setParam("collection", c.code)} />
-        ))}
-      </FilterGroup>
     </div>
   );
 

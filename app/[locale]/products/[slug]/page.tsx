@@ -135,7 +135,6 @@ export default async function ProductDetailPage({ params }: Params) {
                 <Item k={tProduct("specs.category")} v={catLabel} />
                 <Item k={tProduct("specs.material")} v={product.material} />
                 <Item k={tProduct("specs.plating")} v={product.plating.join(" · ")} />
-                <Item k={tProduct("specs.style")} v={product.style.join(" · ")} />
               </ul>
             </Block>
           </div>
