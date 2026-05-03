@@ -27,7 +27,7 @@ export function ProductGallery({ product }: { product: Product }) {
         )}
       </div>
       {thumbs.length > 1 && (
-        <div className="mt-4 flex gap-2 lg:gap-3">
+        <div className="mt-4 flex justify-center gap-2 lg:gap-3 px-6 lg:px-0">
           {thumbs.map((src, i) => (
             <button key={i} onClick={() => setActive(i)}
               className={[
